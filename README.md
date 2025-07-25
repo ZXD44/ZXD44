@@ -1,4 +1,17 @@
-<h1 align="center">⚡️ ZXD44 — Neon Cyberpunk Mode ⚡️</h1>
+## 🎨 ZXD44 — Neon Terminal Palette
+
+| โทน                | ตัวอย่าง                                                        | Hex Code  | ใช้งาน                     |
+| ------------------ | --------------------------------------------------------------- | --------- | -------------------------- |
+| **Void Black**     | ![#0D0D0D](https://via.placeholder.com/15/0D0D0D/000000?text=+) | `#0D0D0D` | พื้นหลังหลัก Terminal     |
+| **Carbon Grey**    | ![#1A1A1A](https://via.placeholder.com/15/1A1A1A/000000?text=+) | `#1A1A1A` | กล่อง, Navbar, Card       |
+| **Neon Blood**     | ![#D1002C](https://via.placeholder.com/15/D1002C/000000?text=+) | `#D1002C` | ปุ่ม, จุดเน้นหลัก         |
+| **Cyber Cherry**   | ![#FF4E5B](https://via.placeholder.com/15/FF4E5B/000000?text=+) | `#FF4E5B` | Hover, แถบเรืองแสง        |
+| **Ghost White**    | ![#ECECEC](https://via.placeholder.com/15/ECECEC/000000?text=+) | `#ECECEC` | ข้อความ, เส้นขอบ          |
+| **Photon White**   | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | `#FFFFFF` | Contrast สูงสุด, Highlight |
+
+---
+
+<h1 align="center" style="color:#FF4E5B">⚡️ ZXD44 — CYBER TERMINAL MODE ⚡️</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="360" alt="Cyberpunk Hacker"/>
@@ -7,40 +20,40 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=F71313" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Frontend%20Dev-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Plugin%20Maker-%2300BFFF?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gamer-%2300FF00?style=for-the-badge&logo=xbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Lua-%23008080?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=D1002C" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Terminal%20Coder-0D0D0D?style=for-the-badge&logo=code&logoColor=FF4E5B"/>
+  <img src="https://img.shields.io/badge/Plugin%20Forge-1A1A1A?style=for-the-badge&logo=lua&logoColor=FF4E5B"/>
+  <img src="https://img.shields.io/badge/Hardcore%20Gamer-D1002C?style=for-the-badge&logo=steam&logoColor=ECECEC"/>
+  <img src="https://img.shields.io/badge/Python%20Scripter-1A1A1A?style=for-the-badge&logo=python&logoColor=FF4E5B"/>
+  <img src="https://img.shields.io/badge/Lua%20Wizard-0D0D0D?style=for-the-badge&logo=lua&logoColor=FF4E5B"/>
 </p>
 
 ---
 
-### 👤 About Me
+### 🔥 WHO AM I?
 
-- 🚀 สายทดลอง ชอบสร้างของใหม่ที่ยังไม่มีใครทำ
-- 🧠 ถนัดหลายภาษา: JS, HTML, CSS, Lua, Python
-- 🕹 สนใจ Game Dev, Automation, Plugin, Tools ใหม่ๆ
-- 🌐 รักเทคโนโลยีใหม่ และงาน Community Dev
+- 👾 เด็กหลังคีย์บอร์ด สาย Dev ที่ชอบทำสิ่งที่ยังไม่มี  
+- 💻 ถนัดหลายภาษาแบบไร้พรมแดน: JS, HTML, Lua, Python, CSS  
+- 🎮 สนุกกับการพัฒนาเกม, ระบบอัตโนมัติ, Plugin, Tools ล้ำๆ  
+- 🌐 มีเป้าหมายจะเขียนโค้ดให้โลกจำ เทคโนโลยีต้องนำ ไม่ตามใคร
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZXD44&theme=matrix&row=1&column=7&no-bg=true&margin-w=10" alt="Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ZXD44&theme=onedark&row=1&column=7&no-frame=true&margin-w=10&title_color=FF4E5B&text_color=ECECEC" alt="Trophy"/>
 </p>
 
 ---
 
-### 📊 ZXD44's Stats
+### 📊 TERMINAL METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZXD44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=ZXD44's+Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZXD44&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZXD44&show_icons=true&theme=transparent&bg_color=0D0D0D&title_color=FF4E5B&text_color=ECECEC&icon_color=FF4E5B&hide_border=true&count_private=true&custom_title=ZXD44+—+Code+Dominance" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZXD44&theme=transparent&background=0D0D0D&ring=FF4E5B&fire=D1002C&currStreakLabel=ECECEC&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZXD44&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZXD44&layout=compact&bg_color=0D0D0D&title_color=FF4E5B&text_color=ECECEC&hide_border=true" height="150"/>
 </p>
 
 ---
