@@ -36,7 +36,7 @@
 ### 📊 TERMINAL METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZXD44&layout=compact&bg_color=0D0D0D&title_color=FF4E5B&text_color=ECECEC&hide_border=true" height="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZXD44&layout=compact&bg_color=0D0D0D&title_color=FF4E5B&text_color=ECECEC&hide_border=true" width="700" />
 </p>
 
 ---
