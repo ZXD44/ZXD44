@@ -1,11 +1,11 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/26/59/e2/2659e2b006652d95a377f77cdaf21ed0.gif" width="360" alt="Cyberpunk Hacker"/>
+</p>
+
 <h1 align="center" style="color:#FF4E5B">ZXD44</h1>
 <p align="center">
   <code>[ ZX-Terminal Active ]</code><br>
   <code>root@ZXD44:~#</code>
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/26/59/e2/2659e2b006652d95a377f77cdaf21ed0.gif" width="360" alt="Cyberpunk Hacker"/>
 </p>
 
 ---
