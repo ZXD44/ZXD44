@@ -6,23 +6,18 @@
 
 ---
 
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap: 24px; flex-wrap: wrap;">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=D1002C" alt="Profile Views" />
-  
-  <br><br>
   
   <!-- Tech Stack Badges -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
   
-  <!-- CSS3 Logos separated -->
-  <span style="display:inline-flex; align-items:center; gap:8px; margin-left:8px;">
-    <!-- โลโก้ CSS3 แบบโล่ห์ -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 Shield Logo" style="width:30px; vertical-align:middle;" />
-    
-    <!-- Badge CSS3 สีหลัก -->
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-  </span>
+  <!-- โลโก้ CSS3 แบบโล่ห์ -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS3 Shield Logo" style="width:30px;" />
+  
+  <!-- Badge CSS3 สีหลัก -->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
   
