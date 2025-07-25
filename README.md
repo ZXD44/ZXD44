@@ -49,6 +49,8 @@
   <img src="https://github.com/ZXD44/ZXD44/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
+<div align="center">
+
 ## 🎨 ZXD44 — Neon Terminal Palette
 
 | โทน                | ตัวอย่าง                                                        | Hex Code  | ใช้งาน                     |
@@ -59,5 +61,7 @@
 | **Cyber Cherry**   | ![#FF4E5B](https://via.placeholder.com/15/FF4E5B/000000?text=+) | `#FF4E5B` | Hover, แถบเรืองแสง        |
 | **Ghost White**    | ![#ECECEC](https://via.placeholder.com/15/ECECEC/000000?text=+) | `#ECECEC` | ข้อความ, เส้นขอบ          |
 | **Photon White**   | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | `#FFFFFF` | Contrast สูงสุด, Highlight |
+
+</div>
 
 ---
