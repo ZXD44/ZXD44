@@ -1,9 +1,7 @@
 <h1 align="center" style="color:#FF4E5B">ZXD44</h1>
 <p align="center">
-  <em>Welcome to the mainframe.</em><br>
-  <code>Access granted: ZXD44</code><br>
-  <code>Loading environment... OK</code><br>
-  <code>System ready. Awaiting input.</code>
+  <code>[ ZX-Terminal Active ]</code><br>
+  <code>root@ZXD44:~#</code>
 </p>
 
 <p align="center">
