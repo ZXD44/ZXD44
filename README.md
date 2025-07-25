@@ -1,16 +1,3 @@
-## 🎨 ZXD44 — Neon Terminal Palette
-
-| โทน                | ตัวอย่าง                                                        | Hex Code  | ใช้งาน                     |
-| ------------------ | --------------------------------------------------------------- | --------- | -------------------------- |
-| **Void Black**     | ![#0D0D0D](https://via.placeholder.com/15/0D0D0D/000000?text=+) | `#0D0D0D` | พื้นหลังหลัก Terminal     |
-| **Carbon Grey**    | ![#1A1A1A](https://via.placeholder.com/15/1A1A1A/000000?text=+) | `#1A1A1A` | กล่อง, Navbar, Card       |
-| **Neon Blood**     | ![#D1002C](https://via.placeholder.com/15/D1002C/000000?text=+) | `#D1002C` | ปุ่ม, จุดเน้นหลัก         |
-| **Cyber Cherry**   | ![#FF4E5B](https://via.placeholder.com/15/FF4E5B/000000?text=+) | `#FF4E5B` | Hover, แถบเรืองแสง        |
-| **Ghost White**    | ![#ECECEC](https://via.placeholder.com/15/ECECEC/000000?text=+) | `#ECECEC` | ข้อความ, เส้นขอบ          |
-| **Photon White**   | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | `#FFFFFF` | Contrast สูงสุด, Highlight |
-
----
-
 <h1 align="center" style="color:#FF4E5B">⚡️ ZXD44 — CYBER TERMINAL MODE ⚡️</h1>
 
 <p align="center">
@@ -61,3 +48,16 @@
 <p align="center">
   <img src="https://github.com/ZXD44/ZXD44/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+## 🎨 ZXD44 — Neon Terminal Palette
+
+| โทน                | ตัวอย่าง                                                        | Hex Code  | ใช้งาน                     |
+| ------------------ | --------------------------------------------------------------- | --------- | -------------------------- |
+| **Void Black**     | ![#0D0D0D](https://via.placeholder.com/15/0D0D0D/000000?text=+) | `#0D0D0D` | พื้นหลังหลัก Terminal     |
+| **Carbon Grey**    | ![#1A1A1A](https://via.placeholder.com/15/1A1A1A/000000?text=+) | `#1A1A1A` | กล่อง, Navbar, Card       |
+| **Neon Blood**     | ![#D1002C](https://via.placeholder.com/15/D1002C/000000?text=+) | `#D1002C` | ปุ่ม, จุดเน้นหลัก         |
+| **Cyber Cherry**   | ![#FF4E5B](https://via.placeholder.com/15/FF4E5B/000000?text=+) | `#FF4E5B` | Hover, แถบเรืองแสง        |
+| **Ghost White**    | ![#ECECEC](https://via.placeholder.com/15/ECECEC/000000?text=+) | `#ECECEC` | ข้อความ, เส้นขอบ          |
+| **Photon White**   | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) | `#FFFFFF` | Contrast สูงสุด, Highlight |
+
+---
