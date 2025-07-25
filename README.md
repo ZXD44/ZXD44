@@ -44,7 +44,7 @@
 <div align="center">
 
 ## 💼 ZXD44 — ประสบการณ์สาย IT Support  
-**บริษัท: AP DESIGN BKK**
+**บริษัท: <a href="https://www.google.com/search?q=ap+design+bkk&sca_esv=d590ad2ae697755e&sxsrf=AE3TifMibkAkGWffrYPhu4Xd4L_Dzqzb-w%3A1753434738269&source=hp&ei=ckqDaI6kDvCD4-EP8Orq6AY&iflsig=AOw8s4IAAAAAaINYgnciGChTckUM6nAh85lOqsincy70&oq=&gs_lp=Egdnd3Mtd2l6GgIYASIAKgIIADIHECMYJxjqAjIHECMYJxjqAjINECMY8AUYJxjJAhjqAjIHECMYJxjqAjIKECMYJxjqAhiLAzIKECMYJxjJAhjqAjIKECMYJxjqAhiLAzIHECMYJxjqAjIKECMYJxjqAhiLAzIHECMYJxjqAkivBFAAWABwAXgAkAEAmAEAoAEAqgEAuAEByAEAmAIBoAIHqAIKmAMH8QUsS8CkNp3UsJIHATGgBwCyBwC4BwDCBwMyLTHIBwY&sclient=gws-wiz">AP DESIGN BKK</a
 
 | ตำแหน่ง/บทบาท           | ลักษณะงานที่รับผิดชอบ                                                | ทักษะที่ใช้                     | หมายเหตุเพิ่มเติม                 |
 | ------------------------ | -------------------------------------------------------------------- | ------------------------------- | -------------------------------- |
