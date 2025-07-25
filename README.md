@@ -6,16 +6,9 @@
 
 ---
 
-<div align="center" style="display:flex; justify-content:center; gap: 24px; flex-wrap: wrap;">
-  <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=D1002C" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
 <style>
+  /* เอฟเฟคประกายไฟรอบๆ badge */
   .glow-badge {
-    display: inline-block;
     border-radius: 6px;
     box-shadow:
       0 0 6px #00aaff,
@@ -24,7 +17,6 @@
       0 0 24px #00aaff;
     animation: flicker 2s infinite alternate;
   }
-
   @keyframes flicker {
     0%, 100% {
       box-shadow:
@@ -43,8 +35,14 @@
   }
 </style>
 
-<img class="glow-badge" src="https://img.shields.io/badge/Vibe%20Coding-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Vibe Coding Badge" />
-
+<div align="center" style="display:flex; justify-content:center; gap: 24px; flex-wrap: wrap;">
+  <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=D1002C" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img class="glow-badge" src="https://img.shields.io/badge/Vibe%20Coding-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Vibe Coding Badge" />
 </div>
 
 ---
