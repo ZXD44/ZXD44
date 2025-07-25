@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#FF4E5B">⚡️ ZXD44 — CYBER TERMINAL MODE ⚡️</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="360" alt="Cyberpunk Hacker"/>
+  <img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://i.pinimg.com/originals/26/59/e2/2659e2b006652d95a377f77cdaf21ed0.gif)" width="360" alt="Cyberpunk Hacker"/>
 </p>
 
 ---
@@ -43,10 +43,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/ZXD44/ZXD44/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 <div align="center">
 
