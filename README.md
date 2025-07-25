@@ -6,14 +6,18 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=D1002C" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Terminal%20Coder-0D0D0D?style=for-the-badge&logo=code&logoColor=FF4E5B"/>
-  <img src="https://img.shields.io/badge/Plugin%20Forge-1A1A1A?style=for-the-badge&logo=lua&logoColor=FF4E5B"/>
-  <img src="https://img.shields.io/badge/Hardcore%20Gamer-D1002C?style=for-the-badge&logo=steam&logoColor=ECECEC"/>
-  <img src="https://img.shields.io/badge/Python%20Scripter-1A1A1A?style=for-the-badge&logo=python&logoColor=FF4E5B"/>
-  <img src="https://img.shields.io/badge/Lua%20Wizard-0D0D0D?style=for-the-badge&logo=lua&logoColor=FF4E5B"/>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=D1002C" alt="Profile Views" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
+<img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+<img src="https://img.shields.io/badge/Lua-%23008080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge" />
+
+</div>
 
 ---
 
