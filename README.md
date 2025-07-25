@@ -6,35 +6,6 @@
 
 ---
 
-<style>
-  /* เอฟเฟคประกายไฟรอบๆ badge */
-  .glow-badge {
-    border-radius: 6px;
-    box-shadow:
-      0 0 6px #00aaff,
-      0 0 12px #00aaff,
-      0 0 18px #00aaff,
-      0 0 24px #00aaff;
-    animation: flicker 2s infinite alternate;
-  }
-  @keyframes flicker {
-    0%, 100% {
-      box-shadow:
-        0 0 6px #00aaff,
-        0 0 12px #00aaff,
-        0 0 18px #00aaff,
-        0 0 24px #00aaff;
-    }
-    50% {
-      box-shadow:
-        0 0 8px #00ccff,
-        0 0 16px #00ccff,
-        0 0 24px #00ccff,
-        0 0 32px #00ccff;
-    }
-  }
-</style>
-
 <div align="center" style="display:flex; justify-content:center; gap: 24px; flex-wrap: wrap;">
   <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=D1002C" alt="Profile Views" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
@@ -42,7 +13,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img class="glow-badge" src="https://img.shields.io/badge/Vibe%20Coding-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Vibe Coding Badge" />
+  <!-- ใช้ GIF แทน badge ปกติ -->
+  <img src="https://raw.githubusercontent.com/ZXD44/your-repo/main/vibe_coding_glow.gif" alt="Vibe Coding Glow Badge" />
 </div>
 
 ---
