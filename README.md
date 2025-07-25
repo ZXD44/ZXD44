@@ -36,12 +36,7 @@
 ### 📊 TERMINAL METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZXD44&show_icons=true&theme=transparent&bg_color=0D0D0D&title_color=FF4E5B&text_color=ECECEC&icon_color=FF4E5B&hide_border=true&count_private=true&custom_title=ZXD44+—+Code+Dominance" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZXD44&theme=transparent&background=0D0D0D&ring=FF4E5B&fire=D1002C&currStreakLabel=ECECEC&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZXD44&layout=compact&bg_color=0D0D0D&title_color=FF4E5B&text_color=ECECEC&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZXD44&layout=compact&bg_color=0D0D0D&title_color=FF4E5B&text_color=ECECEC&hide_border=true" height="350"/>
 </p>
 
 ---
