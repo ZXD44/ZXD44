@@ -7,12 +7,12 @@
 ---
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=D1002C" alt="Profile Views" />
-<img src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
-<img src="https://img.shields.io/badge/CSS-1A1A1A?style=for-the-badge&logo=css3&logoColor=FF4E5B" alt="CSS Badge" />
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-<img src="https://img.shields.io/badge/Lua-%23008080?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge" />
+
+<img src="https://img.shields.io/badge/HTML-1A1A1A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML Badge" />
+<img src="https://img.shields.io/badge/CSS-1A1A1A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS Badge" />
+<img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS Badge" />
+<img src="https://img.shields.io/badge/Lua-1A1A1A?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="Lua Badge" />
 
 </div>
 
