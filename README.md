@@ -13,7 +13,38 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Vibe%20Coding-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Vibe Coding Badge" />
+<style>
+  .glow-badge {
+    display: inline-block;
+    border-radius: 6px;
+    box-shadow:
+      0 0 6px #00aaff,
+      0 0 12px #00aaff,
+      0 0 18px #00aaff,
+      0 0 24px #00aaff;
+    animation: flicker 2s infinite alternate;
+  }
+
+  @keyframes flicker {
+    0%, 100% {
+      box-shadow:
+        0 0 6px #00aaff,
+        0 0 12px #00aaff,
+        0 0 18px #00aaff,
+        0 0 24px #00aaff;
+    }
+    50% {
+      box-shadow:
+        0 0 8px #00ccff,
+        0 0 16px #00ccff,
+        0 0 24px #00ccff,
+        0 0 32px #00ccff;
+    }
+  }
+</style>
+
+<img class="glow-badge" src="https://img.shields.io/badge/Vibe%20Coding-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Vibe Coding Badge" />
+
 </div>
 
 ---
