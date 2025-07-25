@@ -29,9 +29,28 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZXD44&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZXD44&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZXD44&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <!-- Animation GIF เท่ๆ ตัวอย่าง: Hacker Cat -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Hacker Cat Animation" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZXD44&style=flat-square&color=F71313" alt="Profile Views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ZXD44&theme=radical&no-frame=true&margin-w=5" alt="Trophy"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZXD44&show_icons=true&theme=radical&hide_border=true&count_private=true&custom_title=ZXD44's+Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZXD44&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZXD44&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ZXD44/ZXD44/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<!-- เพิ่ม SVG Animation หรือ GIF ตามต้องการ -->
 
 ---
