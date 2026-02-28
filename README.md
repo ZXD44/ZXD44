@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c4/3e/fb/c43efb1a856dc17b4f1cf97e1c7f86bb.gif" alt="Tech Banner" width="150%" height="280" style="object-fit: cover;" />
+  <img src="https://i.pinimg.com/originals/c4/3e/fb/c43efb1a856dc17b4f1cf97e1c7f86bb.gif" alt="Tech Banner" width="150%" height="300" style="object-fit: cover;" />
 </p>
 
 <h1 align="center">
