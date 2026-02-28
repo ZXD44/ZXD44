@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF007A&center=true&vCenter=true&width=500&lines=สวัสดีครับ+ผม+ZirconX+👋;AI+Full-Stack+Developer;IT+Specialist;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=สวัสดีครับ+ผม+ZirconX+👋;AI+Full-Stack+Developer;IT+Specialist;Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=FF007A&label=Profile+Views" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=000000&label=Profile+Views" alt="Visitors" />
 </p>
 
 นักพัฒนา Full-Stack ที่มุ่งเน้นการสร้างโซลูชันที่มีประสิทธิภาพและใช้งานได้จริง ผมมีความเชี่ยวชาญในด้านการพัฒนาเว็บ การจัดการระบบ และการนำ AI มาประยุกต์ใช้ในกระบวนการทำงานให้รวดเร็วยิ่งขึ้น
