@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/9e/33/a0/9e33a099855ed319b3879fe952cf66a2.jpg"
+  <img src="https://i.pinimg.com/1200x/9e/33/a0/9e33a099855ed319b3879fe952cf66a2.jpg" alt="Header Banner" />
 </p>
 
 <h1 align="center">
