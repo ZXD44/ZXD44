@@ -34,9 +34,9 @@
 
 ### 🚀 โปรเจกต์ที่น่าสนใจ
 
-- [**UP-TO-FILE-DIS-TELE**](https://github.com/ZXD44/UP-TO-FILE-DIS-TELE) - เครื่องมืออัปโหลดไฟล์ไปยัง Telegram โดยอัตโนมัติ
-- [**Repo Manager**](https://github.com/ZXD44/repo-manager) - ระบบช่วยจัดการ Repository อย่างมีระเบียบ
-- [**Coding Curriculum**](https://github.com/ZXD44/beginner-coding-curriculum) - แหล่งรวบรวมหลักสูตรพื้นฐานสำหรับผู้เริ่มต้นเขียนโค้ด
+- [**VoiceChat-ZXD44**](https://github.com/ZXD44/VoiceChat-ZXD44) - ระบบไมค์ (Voice Chat) MCPE
+- [**Marry-ZXD44**](https://github.com/ZXD44/Marry-ZXD44) - ระบบแต่งงาน (Marry System) MCPE
+- [**Ragnarok-ZXD44**](https://github.com/ZXD44/Ragnarok-ZXD44) - Rangnarok บนเว็บไซต์
 
 ---
 
