@@ -23,12 +23,21 @@
 
 ---
 
-### 💼 ประสบการณ์ทำงาน (AP DESIGN BKK)
+### 💼 ประสบการณ์ทำงาน
 
-- **IT Support & Network:** ดูแลระบบเครือข่าย (Router/Switch) และสนับสนุนผู้ใช้ด้าน Hardware/Software
-- **System Admin:** บริหารจัดการการติดตั้ง OS และซอฟต์แวร์ต่างๆ ภายในองค์กร
-- **Asset Manager:** ดูแลและจัดการทรัพย์สินด้านไอทีอย่างเป็นระบบ
-- **CNC Operator:** มีความชำนาญในการควบคุมและใช้งานเครื่องตัดไม้ CNC สำหรับงานออกแบบและผลิต
+**Lotus's (Nawamin Office) | [cite_start]IT Rollout Specialist & Helpdesk Support** *(Jan 2026 - Mar 2026)* [cite: 9, 10, 11]
+- [cite_start]**Technical & Remote Support:** ให้บริการช่วยเหลือผู้ใช้งานผ่านระบบแชทและโปรแกรม Remote Desktop [cite: 12]
+- [cite_start]**Retail IT Infrastructure:** จัดการและแก้ไขปัญหาฮาร์ดแวร์หน้าร้าน เช่น ระบบ POS, เครื่องชั่งน้ำหนัก และป้ายราคาสินค้าอิเล็กทรอนิกส์ (ESEL) [cite: 13]
+- [cite_start]**Network & Rollout:** แก้ไขปัญหาระบบเครือข่าย IP และประสานงานกับทีมเพื่อดำเนินการอัปเกรดระบบ (System Cutover) ให้ราบรื่น [cite: 14, 15]
+
+**AP Design Bangkok | [cite_start]IT Support & System Administration** *(Mar 2025 - Aug 2025)* [cite: 16, 17, 18]
+- [cite_start]**IT Support & Network:** ดูแลระบบเครือข่าย ซ่อมบำรุงอุปกรณ์คอมพิวเตอร์ เครื่องพิมพ์ และจัดการการจัดซื้ออุปกรณ์ไอที [cite: 19, 20]
+- [cite_start]**System Development & Automation:** พัฒนา LINE OA Chatbot เพื่อตอบคำถามอัตโนมัติ และสร้างระบบเช็คอินของพนักงานภายในองค์กร [cite: 21]
+- [cite_start]**CNC & Media Operations:** ควบคุมเครื่องตัดไม้ CNC 1325 และดูแลการผลิตวิดีโอลงช่องทาง YouTube/TikTok ขององค์กร [cite: 22, 23]
+
+**Motorsport Thailand | [cite_start]Live Broadcast Technician Intern** *(Nov 2022 - Jan 2023)* [cite: 25, 26, 27]
+- [cite_start]**Live Production:** ควบคุมโปรแกรม vMix สำหรับทำ Replay และภาพช้าแบบเรียลไทม์เพื่อยกระดับประสบการณ์การรับชมในการถ่ายทอดสด [cite: 28]
+- [cite_start]**OB System Setup:** จัดการและวางระบบเดินสายสัญญาณ OB (Outside Broadcasting) สำหรับงานอีเวนต์และมอเตอร์สปอร์ตระดับประเทศ [cite: 29, 31]
 
 ---
 
