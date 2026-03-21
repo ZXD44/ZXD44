@@ -25,19 +25,19 @@
 
 ### 💼 ประสบการณ์ทำงาน
 
-**Lotus's (Nawamin Office) | [cite_start]IT Rollout Specialist & Helpdesk Support** *(Jan 2026 - Mar 2026)* [cite: 9, 10, 11]
-- [cite_start]**Technical & Remote Support:** ให้บริการช่วยเหลือผู้ใช้งานผ่านระบบแชทและโปรแกรม Remote Desktop [cite: 12]
-- [cite_start]**Retail IT Infrastructure:** จัดการและแก้ไขปัญหาฮาร์ดแวร์หน้าร้าน เช่น ระบบ POS, เครื่องชั่งน้ำหนัก และป้ายราคาสินค้าอิเล็กทรอนิกส์ (ESEL) [cite: 13]
-- [cite_start]**Network & Rollout:** แก้ไขปัญหาระบบเครือข่าย IP และประสานงานกับทีมเพื่อดำเนินการอัปเกรดระบบ (System Cutover) ให้ราบรื่น [cite: 14, 15]
+🏢 **Lotus's (Nawamin Office)** | *IT Rollout Specialist & Helpdesk Support* `(Jan 2026 - Mar 2026)`
+- 💻 **Technical & Remote Support:** ให้บริการช่วยเหลือผู้ใช้งานผ่านระบบแชทและโปรแกรม Remote Desktop
+- 🏪 **Retail IT Infrastructure:** จัดการและแก้ไขปัญหาฮาร์ดแวร์หน้าร้าน เช่น ระบบ POS, เครื่องชั่งน้ำหนัก และป้ายราคาสินค้าอิเล็กทรอนิกส์ (ESEL)
+- 🌐 **Network & Rollout:** แก้ไขปัญหาระบบเครือข่าย IP และประสานงานกับทีมเพื่อดำเนินการอัปเกรดระบบ (System Cutover) ให้ราบรื่น
 
-**AP Design Bangkok | [cite_start]IT Support & System Administration** *(Mar 2025 - Aug 2025)* [cite: 16, 17, 18]
-- [cite_start]**IT Support & Network:** ดูแลระบบเครือข่าย ซ่อมบำรุงอุปกรณ์คอมพิวเตอร์ เครื่องพิมพ์ และจัดการการจัดซื้ออุปกรณ์ไอที [cite: 19, 20]
-- [cite_start]**System Development & Automation:** พัฒนา LINE OA Chatbot เพื่อตอบคำถามอัตโนมัติ และสร้างระบบเช็คอินของพนักงานภายในองค์กร [cite: 21]
-- [cite_start]**CNC & Media Operations:** ควบคุมเครื่องตัดไม้ CNC 1325 และดูแลการผลิตวิดีโอลงช่องทาง YouTube/TikTok ขององค์กร [cite: 22, 23]
+🏢 **AP Design Bangkok** | *IT Support & System Administration* `(Mar 2025 - Aug 2025)`
+- 🔧 **IT Support & Network:** ดูแลระบบเครือข่าย ซ่อมบำรุงอุปกรณ์คอมพิวเตอร์ เครื่องพิมพ์ และจัดการการจัดซื้ออุปกรณ์ไอที
+- 🤖 **System Development & Automation:** พัฒนา LINE OA Chatbot เพื่อตอบคำถามอัตโนมัติ และสร้างระบบเช็คอินของพนักงานภายในองค์กร
+- 🎥 **CNC & Media Operations:** ควบคุมเครื่องตัดไม้ CNC 1325 และดูแลการผลิตวิดีโอลงช่องทาง YouTube/TikTok ขององค์กร
 
-**Motorsport Thailand | [cite_start]Live Broadcast Technician Intern** *(Nov 2022 - Jan 2023)* [cite: 25, 26, 27]
-- [cite_start]**Live Production:** ควบคุมโปรแกรม vMix สำหรับทำ Replay และภาพช้าแบบเรียลไทม์เพื่อยกระดับประสบการณ์การรับชมในการถ่ายทอดสด [cite: 28]
-- [cite_start]**OB System Setup:** จัดการและวางระบบเดินสายสัญญาณ OB (Outside Broadcasting) สำหรับงานอีเวนต์และมอเตอร์สปอร์ตระดับประเทศ [cite: 29, 31]
+🏢 **Motorsport Thailand** | *Live Broadcast Technician Intern* `(Nov 2022 - Jan 2023)`
+- 📡 **Live Production:** ควบคุมโปรแกรม vMix สำหรับทำ Replay และภาพช้าแบบเรียลไทม์เพื่อยกระดับประสบการณ์การรับชมในการถ่ายทอดสด
+- 🔌 **OB System Setup:** จัดการและวางระบบเดินสายสัญญาณ OB (Outside Broadcasting) สำหรับงานอีเวนต์และมอเตอร์สปอร์ตระดับประเทศ
 
 ---
 
