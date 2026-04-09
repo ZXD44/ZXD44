@@ -41,7 +41,7 @@
 
 ---
 
-### 🚀 โปรเจกต์ที่น่าสนใจ
+### 🚀 3 โปรเจกต์ที่น่าสนใจ
 
 - [**VoiceChat-ZXD44**](https://github.com/ZXD44/VoiceChat-ZXD44) - ระบบไมค์ (Voice Chat) MCPE
 - [**Marry-ZXD44**](https://github.com/ZXD44/Marry-ZXD44) - ระบบแต่งงาน (Marry System) MCPE
