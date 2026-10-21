@@ -26,7 +26,7 @@
 
 ### 💼 ประสบการณ์ทำงาน
 
-🏢 **โรงพยาบาลสมิติเวช ศรีนครินทร์ (Samitivej Srinakarin Hospital)** | *IT Specialist & Developer* `(20 ส.ค. 2026 - ปัจจุบัน)`
+🏢 **โรงพยาบาลสมิติเวช ศรีนครินทร์ (Samitivej Srinakarin Hospital)** | *IT Specialist & Developer* `(Aug 2026 - Present)`
 - 💻 **Web & System Development:** พัฒนาและดูแลระบบเว็บ/แอปพลิเคชันภายในองค์กร (Full-Stack & Internal Tools)
 - 🏥 **HIS Core Operations (TrakCare):** ดูแล มอนิเตอร์ และแก้ไขปัญหาการใช้งานระบบโรงพยาบาล SVH Trakcare LIVE
 - 👥 **User Support & Access Management:** ให้คำปรึกษา ช่วยเหลือบุคลากรทางการแพทย์ทุกแผนก และจัดการสิทธิ์ผู้ใช้งานผ่าน Active Directory (AD Users)
