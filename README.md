@@ -6,17 +6,57 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=สวัสดีครับ+ผม+ZirconX+👋;IT+Specialist+%26+Developer;Full-Stack+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=000000&label=Profile+Views" alt="Visitors" />
 </p>
 
-**IT Specialist & Developer** ที่ผสมผสานความเชี่ยวชาญด้าน IT Infrastructure, การบริหารจัดการระบบโรงพยาบาล/องค์กร, การช่วยเหลือดูแลผู้ใช้งาน เข้ากับการพัฒนา Web Applications, Automation และการประยุกต์ใช้ AI เพื่อแก้ไขปัญหาและเพิ่มประสิทธิภาพการทำงานแบบครบวงจร
+<p align="center">
+  <b>IT Specialist & Developer</b> ผู้เชี่ยวชาญด้าน IT Infrastructure, การจัดการระบบโรงพยาบาล/องค์กร, การดูแลผู้ใช้งาน ผสานเข้ากับการพัฒนา Web Applications, Automation และการประยุกต์ใช้ AI เพื่อยกระดับประสิทธิภาพการทำงาน
+</p>
 
 ---
 
-### 💻 ทักษะและความเชี่ยวชาญ
+### 🏆 GitHub Achievements & Badges
 
-- **Web & Software Development:** JavaScript (Node.js, React), Python, Lua, HTML5, CSS3, REST API
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZXD44&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ZXD44?tab=achievements">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" height="60" alt="Quickdraw" title="Quickdraw" />
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" height="60" alt="Pull Shark" title="Pull Shark" />
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbffec017.png" width="60" height="60" alt="YOLO" title="YOLO" />
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-7653a9254c5f.png" width="60" height="60" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+    <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="60" height="60" alt="Starstruck" title="Starstruck" />
+    <img src="https://github.githubassets.com/assets/heart-on-your-sleeve-default-9475ed35b5a7.png" width="60" height="60" alt="Heart on your sleeve" title="Heart on your sleeve" />
+    <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-4886cc2d8541.png" width="60" height="60" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor" />
+    <img src="https://github.githubassets.com/assets/public-sponsor-default-038c117dcf49.png" width="60" height="60" alt="Public Sponsor" title="Public Sponsor" />
+  </a>
+</p>
+
+---
+
+### 📊 Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZXD44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ZXD44's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZXD44&theme=tokyonight&hide_border=true" alt="ZXD44's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZXD44&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 💻 ทักษะและความเชี่ยวชาญ (Tech Stack & Skills)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,lua,html,css,mysql,mongodb,git,github,vscode,linux,bash&perline=8" alt="Tech Skills" />
+</p>
+
+- **Web & Software Development:** JavaScript (Node.js, React), TypeScript, Python, Lua, HTML5, CSS3, REST API
 - **Enterprise & Healthcare Systems:** TrakCare (HIS LIVE), Active Directory (AD Users & Permission Management)
 - **Infrastructure & Network:** Network & IP Management, Printers & Hardware Maintenance, System Cutover
 - **Tools & Operations:** Git, GitHub, VS Code, Linux (CLI), Remote Desktop, vMix
