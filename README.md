@@ -3,27 +3,34 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=สวัสดีครับ+ผม+ZirconX+👋;AI+Full-Stack+Developer;IT+Specialist;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=สวัสดีครับ+ผม+ZirconX+👋;IT+Support+-+Dev;Full-Stack+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ZXD44&style=for-the-badge&color=000000&label=Profile+Views" alt="Visitors" />
 </p>
 
-นักพัฒนา Full-Stack ที่มุ่งเน้นการสร้างโซลูชันที่มีประสิทธิภาพและใช้งานได้จริง ผมมีความเชี่ยวชาญในด้านการพัฒนาเว็บ การจัดการระบบ และการนำ AI มาประยุกต์ใช้ในกระบวนการทำงานให้รวดเร็วยิ่งขึ้น
+นักพัฒนา Full-Stack และ IT Specialist ที่มุ่งเน้นการสร้างโซลูชันที่มีประสิทธิภาพและใช้งานได้จริง มีความเชี่ยวชาญด้าน IT Support, Infrastructure, การจัดการระบบโรงพยาบาล/องค์กร, การพัฒนาเว็บ และการประยุกต์ใช้ Automation & AI ให้งานดำเนินไปได้อย่างราบรื่น
 
 ---
 
 ### 💻 ทักษะและความเชี่ยวชาญ
 
-- **Languages:** JavaScript (Node.js, React), Python, Lua, HTML5, CSS3
-- **Tools:** Git, GitHub, VS Code, Linux (Command Line)
-- **Infrastructure:** System Administration, Network Support, IT Asset Management
+- **Languages:** JavaScript (Node.js, React), Python, Lua, HTML5, CSS3, SQL
+- **Systems & Enterprise:** TrakCare (HIS), Active Directory (AD Users), Network & IP Config, System Cutover
+- **Tools:** Git, GitHub, VS Code, Linux (CLI), Remote Desktop, vMix
+- **Infrastructure & Hardware:** IT Support, Network Support, Printers, Retail POS & ESEL, IT Asset Management
 - **Database:** MySQL, MongoDB, REST API
 
 ---
 
 ### 💼 ประสบการณ์ทำงาน
+
+🏢 **โรงพยาบาลสมิติเวช ศรีนครินทร์ (Samitivej Srinakarin Hospital)** | *IT Support - DEV* `(20 ส.ค. 2026 - ปัจจุบัน)`
+- 🏥 **HIS / TrakCare Support:** ดูแลและแก้ไขปัญหาระบบโรงพยาบาล SVH Trakcare LIVE ให้บริการแก่บุคลากรทางการแพทย์อย่างต่อเนื่อง
+- 🖨️ **Peripherals & Hardware:** ติดตั้ง กำหนดค่า และซ่อมบำรุงระบบเครื่องพิมพ์ (Printers) และอุปกรณ์ต่อพ่วงทั่วทั้งโรงพยาบาล
+- 🌐 **Network Infrastructure:** ตรวจสอบ แก้ไขปัญหา และดูแลการเชื่อมต่อระบบเครือข่ายภายในแผนกต่างๆ
+- 👥 **Identity & Access Management:** บริหารจัดการบัญชีผู้ใช้งาน สิทธิ์การเข้าถึง และนโยบายความปลอดภัยผ่าน Active Directory (AD Users)
 
 🏢 **Lotus's (Nawamin Office)** | *IT Rollout Specialist & Helpdesk Support* `(Jan 2026 - Mar 2026)`
 - 💻 **Technical & Remote Support:** ให้บริการช่วยเหลือผู้ใช้งานผ่านระบบแชทและโปรแกรม Remote Desktop
@@ -45,7 +52,7 @@
 
 - [**VoiceChat-ZXD44**](https://github.com/ZXD44/VoiceChat-ZXD44) - ระบบไมค์ (Voice Chat) MCPE
 - [**Marry-ZXD44**](https://github.com/ZXD44/Marry-ZXD44) - ระบบแต่งงาน (Marry System) MCPE
-- [**Ragnarok-ZXD44**](https://github.com/ZXD44/Ragnarok-ZXD44) - Rangnarok บนเว็บไซต์
+- [**Ragnarok-ZXD44**](https://github.com/ZXD44/Ragnarok-ZXD44) - Ragnarok บนเว็บไซต์
 
 ---
 
