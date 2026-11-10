@@ -21,13 +21,13 @@
 
 คัดสรรจากผลงานเด่นบน [zirconx.xyz](https://www.zirconx.xyz):
 
-| โปรเจกต์ | หมวดหมู่ | รายละเอียด | เทคโนโลยี | ลิงก์ |
+| โปรเจกต์ | หมวดหมู่ | รายละเอียด | เทคโนโลยีหลัก | ลิงก์ |
 | :--- | :--- | :--- | :--- | :---: |
-| ⚡ **FlowX** | Android Automation | แอปพลิเคชันระบบอัตโนมัติความแม่นยำสูงบน Android สำหรับกิจกรรมและมินิเกมบน MORGAN CITY พร้อม Computer Vision และ Anti-Ban Humanized Gesture |    | [Repository](https://github.com/ZXD44/FlowX) |
-| 🛡️ **UnfollowX PRO** | Desktop Automation | เครื่องมือ Desktop สำหรับตรวจสอบและคัดกรองผู้ไม่ติดตามกลับบน Instagram อัตโนมัติ ปลอดภัย 100% ผ่าน Real Browser ไร้ปัญหาหน้าต่างค้าง (Zero-Deadlock Architecture) |    | [Repository](https://github.com/ZXD44/UnfollowX) |
+| ⚡ **FlowX** | Android Automation | ระบบอัตโนมัติความแม่นยำสูงบน Android สำหรับกิจกรรมและมินิเกมบน MORGAN CITY พร้อม Computer Vision และ Anti-Ban Humanized Gesture |    | [Repository](https://github.com/ZXD44/FlowX) |
+| 🛡️ **UnfollowX PRO** | Desktop Automation | เครื่องมือ Desktop ตรวจสอบและคัดกรองผู้ไม่ติดตามกลับบน Instagram อัตโนมัติ ปลอดภัย 100% ผ่าน Real Browser สถาปัตยกรรม Zero-Deadlock |    | [Repository](https://github.com/ZXD44/UnfollowX) |
 | 🎮 **Zircord** | Developer Tool | Discord Rich Presence อัตโนมัติสำหรับนักพัฒนา ทำงานเงียบในพื้นหลัง รองรับ VS Code, Neovim, Terminal และ Roblox Studio พร้อม Git Live Tracking |    | [Repository](https://github.com/ZXD44/Zircord) |
-| 🎨 **XSKIN Studio** | Web Application | สตูดิโอปรับแต่งและแปลงสกิน Minecraft Bedrock ครบวงจรบนเว็บ แปลงสกินเป็นชุดเกราะ  และส่งออก  ประมวลผลแบบ Client-side 100% |    | [Repository](https://github.com/ZXD44/XSKIN) |
-| 🤖 **ZXScript** | AI Bridge / Plugin | Roblox Studio AI Agent Bridge เชื่อมโยงโมเดล AI (DeepSeek, ChatGPT, Claude) เข้ากับ Roblox Studio โดยตรงเพื่อสร้างและเจนโค้ดเกมอัตโนมัติ |    | [Repository](https://github.com/ZXD44/ZXScript) |
+| 🎨 **XSKIN Studio** | Web Application | สตูดิโอปรับแต่งและแปลงสกิน Minecraft Bedrock ครบวงจรบนเว็บ รองรับแปลงเป็นชุดเกราะ  และส่งออก  ประมวลผลแบบ Client-side |    | [Repository](https://github.com/ZXD44/XSKIN) |
+| 🤖 **ZXScript** | AI Bridge / Plugin | Roblox Studio AI Agent Bridge เชื่อมต่อโมเดล AI (DeepSeek, ChatGPT, Claude) เข้ากับ Roblox Studio โดยตรงเพื่อสร้างและเขียนโค้ดเกมอัตโนมัติ |    | [Repository](https://github.com/ZXD44/ZXScript) |
 | 🎙️ **VoiceChat-ZXD44** | Gaming Infra | ระบบ Proximity Voice Chat (เสียงตามระยะทาง) สำหรับ Minecraft Bedrock เชื่อมต่อแบบเรียลไทม์ผ่าน Discord |    | [Repository](https://github.com/ZXD44/VoiceChat-ZXD44) |
 
 ---
