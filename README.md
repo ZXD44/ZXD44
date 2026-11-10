@@ -17,20 +17,56 @@
 
 ---
 
-### 🚀 ไฮไลต์ผลงาน & โปรเจกต์ที่น่าสนใจ (Featured Projects)
+### 🚀 ไฮไลต์ผลงาน & โปรเจกต์เด่น (Featured Projects)
 
-คัดสรรจากผลงานเด่นบน [zirconx.xyz](https://www.zirconx.xyz):
+คัดสรรจากผลงานบน [zirconx.xyz](https://www.zirconx.xyz):
 
-| โปรเจกต์ | หมวดหมู่ | รายละเอียด | เวอร์ชันล่าสุด / ดาวน์โหลด | ลิงก์ซอร์สโค้ด |
+| โปรเจกต์ | หมวดหมู่ | รายละเอียด | เวอร์ชันล่าสุด / ดาวน์โหลด | ซอร์สโค้ด |
 | :--- | :--- | :--- | :---: | :---: |
-| ⚡ **FlowX** | Android Automation | ระบบอัตโนมัติความแม่นยำสูงบน Android สำหรับกิจกรรมและมินิเกมบน MORGAN CITY พร้อม Computer Vision และ Anti-Ban Humanized Gesture | [![FlowX Latest](https://img.shields.io/github/v/release/ZXD44/FlowX?style=for-the-badge&logo=android&logoColor=white&label=FlowX&color=blue)](https://github.com/ZXD44/FlowX/releases/latest) | [📂 GitHub](https://github.com/ZXD44/FlowX) |
-| 🛡️ **UnfollowX PRO** | Desktop Automation | เครื่องมือ Desktop ตรวจสอบและคัดกรองผู้ไม่ติดตามกลับบน Instagram อัตโนมัติ ปลอดภัย 100% ผ่าน Real Browser สถาปัตยกรรม Zero-Deadlock | [![UnfollowX Latest](https://img.shields.io/github/v/release/ZXD44/UnfollowX?style=for-the-badge&logo=windows&logoColor=white&label=UnfollowX&color=2ea44f)](https://github.com/ZXD44/UnfollowX/releases/latest) | [📂 GitHub](https://github.com/ZXD44/UnfollowX) |
-| 🎙️ **VoiceChat-ZXD44** | Gaming Infra | ระบบ Proximity Voice Chat (เสียงตามระยะทาง) สำหรับ Minecraft Bedrock เชื่อมต่อแบบเรียลไทม์ผ่าน Discord Hyper-Flux Engine | [![VoiceChat Latest](https://img.shields.io/github/v/release/ZXD44/VoiceChat-ZXD44?style=for-the-badge&logo=minecraft&logoColor=white&label=VoiceChat&color=5865F2)](https://github.com/ZXD44/VoiceChat-ZXD44/releases/latest) | [📂 GitHub](https://github.com/ZXD44/VoiceChat-ZXD44) |
-| 🎮 **Zircord** | Developer Tool | Discord Rich Presence อัตโนมัติสำหรับนักพัฒนา ทำงานเงียบในพื้นหลัง รองรับ VS Code, Neovim, Terminal และ Roblox Studio พร้อม Git Live Tracking | [![Latest Commit](https://img.shields.io/github/last-commit/ZXD44/Zircord?style=for-the-badge&logo=discord&logoColor=white&label=Live%20Build&color=5865F2)](https://github.com/ZXD44/Zircord) | [📂 GitHub](https://github.com/ZXD44/Zircord) |
-| 🎨 **XSKIN Studio** | Web Application | สตูดิโอปรับแต่งและแปลงสกิน Minecraft Bedrock ครบวงจรบนเว็บ รองรับแปลงเป็นชุดเกราะ  และส่งออก  ประมวลผลแบบ Client-side | [![Web App](https://img.shields.io/badge/Web%20App-Online-ff9800?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/ZXD44/XSKIN) | [📂 GitHub](https://github.com/ZXD44/XSKIN) |
-| 🤖 **ZXScript** | AI Bridge / Plugin | Roblox Studio AI Agent Bridge เชื่อมต่อโมเดล AI (DeepSeek, ChatGPT, Claude) เข้ากับ Roblox Studio โดยตรงเพื่อสร้างและเขียนโค้ดเกมอัตโนมัติ | [![Tool](https://img.shields.io/badge/Plugin-Latest-red?style=for-the-badge&logo=roblox&logoColor=white)](https://github.com/ZXD44/ZXScript) | [📂 GitHub](https://github.com/ZXD44/ZXScript) |
+| ⚡ **FlowX** | Android Automation | ระบบอัตโนมัติความแม่นยำสูงบน Android สำหรับ MORGAN CITY พร้อม Computer Vision และ Anti-Ban Humanized Gesture | [![FlowX](https://img.shields.io/github/v/release/ZXD44/FlowX?style=for-the-badge&logo=android&logoColor=white&label=FlowX&color=blue)](https://github.com/ZXD44/FlowX/releases/latest) | [📂 GitHub](https://github.com/ZXD44/FlowX) |
+| 🛡️ **UnfollowX PRO** | Desktop Automation | เครื่องมือ Desktop ตรวจสอบและคัดกรองผู้ไม่ติดตามกลับบน Instagram อัตโนมัติ ปลอดภัย 100% ผ่าน Real Browser สถาปัตยกรรม Zero-Deadlock | [![UnfollowX](https://img.shields.io/github/v/release/ZXD44/UnfollowX?style=for-the-badge&logo=windows&logoColor=white&label=UnfollowX&color=2ea44f)](https://github.com/ZXD44/UnfollowX/releases/latest) | [📂 GitHub](https://github.com/ZXD44/UnfollowX) |
+| 🎙️ **VoiceChat-ZXD44** | Gaming Infra | ระบบ Proximity Voice Chat สำหรับ Minecraft Bedrock เชื่อมต่อแบบเรียลไทม์ผ่าน Discord Hyper-Flux Engine | [![VoiceChat](https://img.shields.io/github/v/release/ZXD44/VoiceChat-ZXD44?style=for-the-badge&logo=minecraft&logoColor=white&label=VoiceChat&color=5865F2)](https://github.com/ZXD44/VoiceChat-ZXD44/releases/latest) | [📂 GitHub](https://github.com/ZXD44/VoiceChat-ZXD44) |
+| 🎮 **Zircord** | Developer Tool | Discord Rich Presence อัตโนมัติสำหรับนักพัฒนา รองรับ VS Code, Terminal, Neovim, Roblox Studio พร้อม Git Live Tracking | [![Zircord](https://img.shields.io/badge/Live-Build-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/ZXD44/Zircord) | [📂 GitHub](https://github.com/ZXD44/Zircord) |
+| 🎨 **XSKIN Studio** | Web Application | สตูดิโอแต่งและแปลงสกิน Minecraft Bedrock บนเว็บ แปลงเป็นชุดเกราะ `.mcaddon` และส่งออก `.mcpack` Client-side 100% | [![Web App](https://img.shields.io/badge/Web%20App-Online-ff9800?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/ZXD44/XSKIN) | [📂 GitHub](https://github.com/ZXD44/XSKIN) |
+| 🤖 **ZXScript** | AI Bridge / Plugin | Roblox Studio AI Agent Bridge เชื่อมต่อโมเดล AI (DeepSeek, ChatGPT, Claude) เข้ากับ Roblox Studio โดยตรง | [![ZXScript](https://img.shields.io/badge/Plugin-Active-red?style=for-the-badge&logo=roblox&logoColor=white)](https://github.com/ZXD44/ZXScript) | [📂 GitHub](https://github.com/ZXD44/ZXScript) |
 
+---
 
+### 💼 ประสบการณ์ทำงาน (Work Experience)
+
+#### 🏥 โรงพยาบาลสมิติเวช ศรีนครินทร์ (Samitivej Srinakarin Hospital)
+**IT Specialist & Developer** • `ส.ค. 2026 – ปัจจุบัน`
+- **ระบบโรงพยาบาล (TrakCare HIS LIVE)**: มอนิเตอร์และแก้ไขปัญหาการใช้งานระบบหลักของโรงพยาบาล (OPD/IPD, Doctor Orders, แล็บ) ตลอด 24/7
+- **การจัดการสิทธิ์และผู้ใช้ (Active Directory)**: บริหารจัดการ User Accounts, Permissions และ Group Policy ของบุคลากรทางการแพทย์กว่า 500+ คน
+- **พัฒนาซอฟต์แวร์ภายใน (Internal Tools)**: พัฒนาเว็บแอปพลิเคชันและสคริปต์อัตโนมัติ ช่วยลดภาระงานซ้ำซ้อนของแผนกต่างๆ
+- **โครงสร้างพื้นฐานไอที**: ดูแลระบบเครือข่าย Medical VLAN, เครื่องพิมพ์ฉลากยา/สติกเกอร์เวชระเบียน และอุปกรณ์ไอทีทุกจุดบริการ
+- 🛠️ **เครื่องมือหลัก**: `TrakCare (HIS)` • `Active Directory` • `Python` • `Next.js` • `VLAN Network`
+
+---
+
+#### 🏪 Lotus's สำนักงานใหญ่ นวมินทร์
+**IT Rollout Specialist & Helpdesk Support** • `ม.ค. 2026 – มี.ค. 2026`
+- **ระบบค้าปลีกและสาขา (Store Systems)**: วิเคราะห์และแก้ไขปัญหาฮาร์ดแวร์หน้าร้านความเร็วสูง เช่น POS Checkout, เครื่องชั่งดิจิทัล และป้ายราคาสินค้าอิเล็กทรอนิกส์ (ESEL)
+- **การ Rollout อัปเกรดระบบ**: ประสานงานและดำเนินการ System Cutover ในการอัปเกรดระบบสาขาตามกำหนดเวลา
+- **ซัพพอร์ตผู้ใช้งาน**: ให้บริการช่วยเหลือด้านไอทีแก่ผู้ใช้งานผ่าน Remote Desktop และระบบ Helpdesk ตามเกณฑ์ SLA
+- 🛠️ **เครื่องมือหลัก**: `POS Systems` • `ESEL (Digital Price Tags)` • `System Cutover` • `Remote Helpdesk`
+
+---
+
+#### 🏢 AP Design Bangkok
+**IT Support & System Administration** • `มี.ค. 2025 – ส.ค. 2025`
+- **พัฒนาระบบอัตโนมัติ**: ออกแบบและพัฒนา LINE Official Account Chatbot สำหรับตอบข้อสงสัยลูกค้า 24 ชม. และระบบบันทึกเวลาเข้า-ออกงาน
+- **ดูแลโครงสร้างพื้นฐานไอที**: วางผังระบบเครือข่ายสำนักงาน ซ่อมบำรุงคอมพิวเตอร์ และจัดซื้ออุปกรณ์ไอที
+- **งานมัลติมีเดียและเครื่องตัด**: ควบคุมเครื่องตัดไม้ CNC 1325 และดูแลการผลิตสื่อวิดีโอลงช่องทางออนไลน์
+- 🛠️ **เครื่องมือหลัก**: `LINE OA API` • `Web Check-in` • `Office Network` • `CNC 1325`
+
+---
+
+#### 🏁 Motorsport Thailand
+**Live Broadcast Technician Intern** • `พ.ย. 2022 – ม.ค. 2023`
+- **ควบคุมระบบภาพถ่ายทอดสด**: ควบคุมโปรแกรม vMix สำหรับทำ Instant Replay และภาพช้าแบบเรียลไทม์ในการถ่ายทอดสดมอเตอร์สปอร์ตระดับประเทศ
+- **วางระบบสัญญาณภาคสนาม**: ติดตั้งและเดินสายสัญญาณ SDI / Fiber Optic เชื่อมโยงจากรถถ่ายทอดสด (OB Van) สู่สนามแข่งขัน
+- 🛠️ **เครื่องมือหลัก**: `vMix Live Production` • `Instant Replay` • `OB Van` • `SDI / Fiber Optic`
 
 ---
 
@@ -41,167 +77,6 @@
 - **Automation & Tools:** Playwright, PyWebView, ML Kit, Discord API/RPC, Git & GitHub, Docker, Linux (CLI)
 - **Enterprise & Healthcare:** TrakCare (HIS LIVE), Active Directory (AD Users & Permission Management), Network/IP Routing, Hardware & POS Maintenance, System Cutover
 - **Databases:** MySQL, MongoDB
-
----
-
-### 💼 ประสบการณ์ทำงาน & ความเชี่ยวชาญเชิงลึก (Work Experience & Key Impact)
-
----
-
-#### 🏥 **โรงพยาบาลสมิติเวช ศรีนครินทร์ (Samitivej Srinakarin Hospital)**
- | **ส.ค. 2026 – ปัจจุบัน** &nbsp; 
-> **โฟกัสหลัก**: การผสมผสานระบบสารสนเทศทางการแพทย์ระดับ Enterprise (HIS) เข้ากับการพัฒนาระบบอัตโนมัติภายในองค์กร
-
-- 💻 **Internal Web Application & Automation**: ออกแบบและพัฒนาเว็บแอปพลิเคชัน/เครื่องมืออัตโนมัติภายในโรงพยาบาล ช่วยลดขั้นตอนการทำงานแบบ Manual ของเจ้าหน้าที่แผนกต่างๆ
-- 🏥 **Mission-Critical Healthcare System (TrakCare HIS LIVE)**: มอนิเตอร์ ตรวจสอบ และแก้ไขปัญหาข้อขัดข้องในระบบ TrakCare LIVE (OPD, IPD, ระบบสั่งยา Doctor Order และการเชื่อมต่อผลแล็บ/เอกซเรย์) ตลอด 24/7 เพื่อให้การรักษาพยาบาลเป็นไปอย่างราบรื่น
-- 👥 **Identity & Access Management (AD Users)**: บริหารจัดการบัญชีผู้ใช้งาน สิทธิ์ความปลอดภัย และ Group Policy ของแพทย์ พยาบาล และบุคลากรกว่า 500+ คน ผ่าน Windows Server Active Directory
-- 🌐 **Hospital Infrastructure Resilience**: ควบคุมดูแลเสถียรภาพระบบเครือข่ายโรงพยาบาล (VLAN / Medical IP Network), เครื่องพิมพ์เฉพาะทาง (ฉลากยา/สติกเกอร์เวชระเบียน) และระบบคอมพิวเตอร์ประจำจุดบริการ
-- 🛠️ **Stack & Tools**:  
-  <p align="left">
-    <img src="https://img.shields.io/badge/vMix-Live_Production-7C3AED?style=flat-square&logo=obsstudio&logoColor=white" alt="vMix" />
-    <img src="https://img.shields.io/badge/Broadcast-Instant_Replay-EC4899?style=flat-square&logo=youtube-live&logoColor=white" alt="Instant Replay" />
-    <img src="https://img.shields.io/badge/OB_Van-Outside_Broadcasting-3B82F6?style=flat-square&logo=transmission&logoColor=white" alt="OB Van" />
-    <img src="https://img.shields.io/badge/Signal-SDI_&_Fiber_Optic-14B8A6?style=flat-square&logo=speedtest&logoColor=white" alt="SDI/Fiber" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/LINE_OA-Chatbot_Automation-06C755?style=flat-square&logo=line&logoColor=white" alt="LINE OA" />
-    <img src="https://img.shields.io/badge/Web_App-Employee_Check--in-000000?style=flat-square&logo=javascript&logoColor=white" alt="Check-in App" />
-    <img src="https://img.shields.io/badge/Network-Office_LAN_&_Wi--Fi-10B981?style=flat-square&logo=ubiquiti&logoColor=white" alt="Office LAN" />
-    <img src="https://img.shields.io/badge/CNC-1325_Wood_Router-D97706?style=flat-square&logo=autodesk&logoColor=white" alt="CNC 1325" />
-    <img src="https://img.shields.io/badge/Media-YouTube_&_TikTok-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Media" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/POS-Retail_Checkout-E11D48?style=flat-square&logo=salesforce&logoColor=white" alt="POS" />
-    <img src="https://img.shields.io/badge/ESEL-Digital_Price_Tags-2563EB?style=flat-square&logo=bluetooth&logoColor=white" alt="ESEL" />
-    <img src="https://img.shields.io/badge/Network-IP_Cutover-F59E0B?style=flat-square&logo=ethernet&logoColor=white" alt="IP Cutover" />
-    <img src="https://img.shields.io/badge/Support-Remote_Desktop-059669?style=flat-square&logo=anydesk&logoColor=white" alt="Remote Desktop" />
-    <img src="https://img.shields.io/badge/SLA-Helpdesk_Ticketing-6366F1?style=flat-square&logo=jira&logoColor=white" alt="Helpdesk" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/TrakCare-HIS_Healthcare-008080?style=flat-square&logo=interact&logoColor=white" alt="TrakCare" />
-    <img src="https://img.shields.io/badge/Active_Directory-IAM_&_Security-0078D4?style=flat-square&logo=windows&logoColor=white" alt="AD" />
-    <img src="https://img.shields.io/badge/Next.js-Internal_Web-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Python-Automation_Workers-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Network-VLAN_&_IP_Subnets-EA580C?style=flat-square&logo=cisco&logoColor=white" alt="VLAN" />
-    <img src="https://img.shields.io/badge/Hardware-Medical_Printers-4B5563?style=flat-square&logo=print&logoColor=white" alt="Printers" />
-  </p>
-
----
-
-#### 🏪 **Lotus's Head Office Nawamin (โลตัส สำนักงานใหญ่ นวมินทร์)**
- | **ม.ค. 2026 – มี.ค. 2026** &nbsp; 
-> **โฟกัสหลัก**: การบริหารจัดการระบบค้าปลีกความแม่นยำสูง และการ Rollout อัปเกรดระบบเครือข่าย/อุปกรณ์สาขา
-
-- 🚀 **Store Systems Cutover & Rollout**: ประสานงานและดำเนินการ System Cutover ในการอัปเกรดซอฟต์แวร์ระบบสาขาตามกำหนดเวลาโดยไม่ส่งผลกระทบต่อการขายหน้าร้าน
-- 🛒 **Retail Tech & Peripherals**: วิเคราะห์และแก้ไขปัญหาฮาร์ดแวร์หน้าร้านความเร็วสูง เช่น POS Checkout, เครื่องชั่งน้ำหนักดิจิทัล และระบบป้ายราคาสินค้าอิเล็กทรอนิกส์ (ESEL)
-- 💻 **Tier-1/2 Technical Support**: ซัพพอร์ตและแก้ไขปัญหาด้านไอทีให้แก่ผู้ใช้งานผ่าน Remote Desktop และระบบ Helpdesk ตามเกณฑ์ SLA อย่างเคร่งครัด
-- 🛠️ **Stack & Tools**:  
-  <p align="left">
-    <img src="https://img.shields.io/badge/vMix-Live_Production-7C3AED?style=flat-square&logo=obsstudio&logoColor=white" alt="vMix" />
-    <img src="https://img.shields.io/badge/Broadcast-Instant_Replay-EC4899?style=flat-square&logo=youtube-live&logoColor=white" alt="Instant Replay" />
-    <img src="https://img.shields.io/badge/OB_Van-Outside_Broadcasting-3B82F6?style=flat-square&logo=transmission&logoColor=white" alt="OB Van" />
-    <img src="https://img.shields.io/badge/Signal-SDI_&_Fiber_Optic-14B8A6?style=flat-square&logo=speedtest&logoColor=white" alt="SDI/Fiber" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/LINE_OA-Chatbot_Automation-06C755?style=flat-square&logo=line&logoColor=white" alt="LINE OA" />
-    <img src="https://img.shields.io/badge/Web_App-Employee_Check--in-000000?style=flat-square&logo=javascript&logoColor=white" alt="Check-in App" />
-    <img src="https://img.shields.io/badge/Network-Office_LAN_&_Wi--Fi-10B981?style=flat-square&logo=ubiquiti&logoColor=white" alt="Office LAN" />
-    <img src="https://img.shields.io/badge/CNC-1325_Wood_Router-D97706?style=flat-square&logo=autodesk&logoColor=white" alt="CNC 1325" />
-    <img src="https://img.shields.io/badge/Media-YouTube_&_TikTok-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Media" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/POS-Retail_Checkout-E11D48?style=flat-square&logo=salesforce&logoColor=white" alt="POS" />
-    <img src="https://img.shields.io/badge/ESEL-Digital_Price_Tags-2563EB?style=flat-square&logo=bluetooth&logoColor=white" alt="ESEL" />
-    <img src="https://img.shields.io/badge/Network-IP_Cutover-F59E0B?style=flat-square&logo=ethernet&logoColor=white" alt="IP Cutover" />
-    <img src="https://img.shields.io/badge/Support-Remote_Desktop-059669?style=flat-square&logo=anydesk&logoColor=white" alt="Remote Desktop" />
-    <img src="https://img.shields.io/badge/SLA-Helpdesk_Ticketing-6366F1?style=flat-square&logo=jira&logoColor=white" alt="Helpdesk" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/TrakCare-HIS_Healthcare-008080?style=flat-square&logo=interact&logoColor=white" alt="TrakCare" />
-    <img src="https://img.shields.io/badge/Active_Directory-IAM_&_Security-0078D4?style=flat-square&logo=windows&logoColor=white" alt="AD" />
-    <img src="https://img.shields.io/badge/Next.js-Internal_Web-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Python-Automation_Workers-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Network-VLAN_&_IP_Subnets-EA580C?style=flat-square&logo=cisco&logoColor=white" alt="VLAN" />
-    <img src="https://img.shields.io/badge/Hardware-Medical_Printers-4B5563?style=flat-square&logo=print&logoColor=white" alt="Printers" />
-  </p>
-
----
-
-#### 🏢 **AP Design Bangkok**
- | **มี.ค. 2025 – ส.ค. 2025** &nbsp; 
-> **โฟกัสหลัก**: การวางโครงสร้างพื้นฐานไอทีสำนักงาน และพัฒนาระบบอัตโนมัติสำหรับธุรกิจ
-
-- 🤖 **Business Process Automation**: ออกแบบและพัฒนา LINE Official Account Chatbot สำหรับตอบข้อสงสัยลูกค้าและแจ้งเตือนสถานะงานอัตโนมัติ 24 ชั่วโมง
-- 📱 **Employee Attendance System**: พัฒนาระบบบันทึกเวลาเข้า-ออกงาน (Employee Check-in System) สำหรับพนักงานภายในองค์กร
-- 🔧 **IT Purchasing & Network Administration**: วางผังระบบเครือข่าย Office LAN/Wi-Fi ซ่อมบำรุงเวิร์กสเตชัน และจัดซื้ออุปกรณ์ไอทีคุ้มค่าตามงบประมาณ
-- 🎥 **Digital Fabrication & Creative Media**: ควบคุมเครื่องตัดไม้ CNC 1325 และควบคุมการผลิตสื่อมัลติมีเดียประชาสัมพันธ์ลงช่องทาง YouTube / TikTok
-- 🛠️ **Stack & Tools**:  
-  <p align="left">
-    <img src="https://img.shields.io/badge/vMix-Live_Production-7C3AED?style=flat-square&logo=obsstudio&logoColor=white" alt="vMix" />
-    <img src="https://img.shields.io/badge/Broadcast-Instant_Replay-EC4899?style=flat-square&logo=youtube-live&logoColor=white" alt="Instant Replay" />
-    <img src="https://img.shields.io/badge/OB_Van-Outside_Broadcasting-3B82F6?style=flat-square&logo=transmission&logoColor=white" alt="OB Van" />
-    <img src="https://img.shields.io/badge/Signal-SDI_&_Fiber_Optic-14B8A6?style=flat-square&logo=speedtest&logoColor=white" alt="SDI/Fiber" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/LINE_OA-Chatbot_Automation-06C755?style=flat-square&logo=line&logoColor=white" alt="LINE OA" />
-    <img src="https://img.shields.io/badge/Web_App-Employee_Check--in-000000?style=flat-square&logo=javascript&logoColor=white" alt="Check-in App" />
-    <img src="https://img.shields.io/badge/Network-Office_LAN_&_Wi--Fi-10B981?style=flat-square&logo=ubiquiti&logoColor=white" alt="Office LAN" />
-    <img src="https://img.shields.io/badge/CNC-1325_Wood_Router-D97706?style=flat-square&logo=autodesk&logoColor=white" alt="CNC 1325" />
-    <img src="https://img.shields.io/badge/Media-YouTube_&_TikTok-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Media" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/POS-Retail_Checkout-E11D48?style=flat-square&logo=salesforce&logoColor=white" alt="POS" />
-    <img src="https://img.shields.io/badge/ESEL-Digital_Price_Tags-2563EB?style=flat-square&logo=bluetooth&logoColor=white" alt="ESEL" />
-    <img src="https://img.shields.io/badge/Network-IP_Cutover-F59E0B?style=flat-square&logo=ethernet&logoColor=white" alt="IP Cutover" />
-    <img src="https://img.shields.io/badge/Support-Remote_Desktop-059669?style=flat-square&logo=anydesk&logoColor=white" alt="Remote Desktop" />
-    <img src="https://img.shields.io/badge/SLA-Helpdesk_Ticketing-6366F1?style=flat-square&logo=jira&logoColor=white" alt="Helpdesk" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/TrakCare-HIS_Healthcare-008080?style=flat-square&logo=interact&logoColor=white" alt="TrakCare" />
-    <img src="https://img.shields.io/badge/Active_Directory-IAM_&_Security-0078D4?style=flat-square&logo=windows&logoColor=white" alt="AD" />
-    <img src="https://img.shields.io/badge/Next.js-Internal_Web-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Python-Automation_Workers-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Network-VLAN_&_IP_Subnets-EA580C?style=flat-square&logo=cisco&logoColor=white" alt="VLAN" />
-    <img src="https://img.shields.io/badge/Hardware-Medical_Printers-4B5563?style=flat-square&logo=print&logoColor=white" alt="Printers" />
-  </p>
-
----
-
-#### 🏁 **Motorsport Thailand**
- | **พ.ย. 2022 – ม.ค. 2023** &nbsp; 
-> **โฟกัสหลัก**: การควบคุมระบบภาพและโครงสร้างสัญญาณถ่ายทอดสดความเร็วสูงในการแข่งขันกีฬาระดับประเทศ
-
-- 📡 **High-Precision Real-Time Replay**: ควบคุมโปรแกรม vMix สำหรับทำ Instant Replay และภาพช้าแบบเรียลไทม์ในเสี้ยววินาที รองรับการถ่ายทอดสดมอเตอร์สปอร์ต
-- 🔌 **Outside Broadcasting (OB Van) Setup**: วางระบบเดินสายสัญญาณ SDI / Fiber Optic เชื่อมโยงสัญญาณภาพและเสียงจากสนามแข่งสู่ห้องควบคุมถ่ายทอดสด
-- 🛠️ **Stack & Tools**:  
-  <p align="left">
-    <img src="https://img.shields.io/badge/vMix-Live_Production-7C3AED?style=flat-square&logo=obsstudio&logoColor=white" alt="vMix" />
-    <img src="https://img.shields.io/badge/Broadcast-Instant_Replay-EC4899?style=flat-square&logo=youtube-live&logoColor=white" alt="Instant Replay" />
-    <img src="https://img.shields.io/badge/OB_Van-Outside_Broadcasting-3B82F6?style=flat-square&logo=transmission&logoColor=white" alt="OB Van" />
-    <img src="https://img.shields.io/badge/Signal-SDI_&_Fiber_Optic-14B8A6?style=flat-square&logo=speedtest&logoColor=white" alt="SDI/Fiber" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/LINE_OA-Chatbot_Automation-06C755?style=flat-square&logo=line&logoColor=white" alt="LINE OA" />
-    <img src="https://img.shields.io/badge/Web_App-Employee_Check--in-000000?style=flat-square&logo=javascript&logoColor=white" alt="Check-in App" />
-    <img src="https://img.shields.io/badge/Network-Office_LAN_&_Wi--Fi-10B981?style=flat-square&logo=ubiquiti&logoColor=white" alt="Office LAN" />
-    <img src="https://img.shields.io/badge/CNC-1325_Wood_Router-D97706?style=flat-square&logo=autodesk&logoColor=white" alt="CNC 1325" />
-    <img src="https://img.shields.io/badge/Media-YouTube_&_TikTok-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Media" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/POS-Retail_Checkout-E11D48?style=flat-square&logo=salesforce&logoColor=white" alt="POS" />
-    <img src="https://img.shields.io/badge/ESEL-Digital_Price_Tags-2563EB?style=flat-square&logo=bluetooth&logoColor=white" alt="ESEL" />
-    <img src="https://img.shields.io/badge/Network-IP_Cutover-F59E0B?style=flat-square&logo=ethernet&logoColor=white" alt="IP Cutover" />
-    <img src="https://img.shields.io/badge/Support-Remote_Desktop-059669?style=flat-square&logo=anydesk&logoColor=white" alt="Remote Desktop" />
-    <img src="https://img.shields.io/badge/SLA-Helpdesk_Ticketing-6366F1?style=flat-square&logo=jira&logoColor=white" alt="Helpdesk" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/TrakCare-HIS_Healthcare-008080?style=flat-square&logo=interact&logoColor=white" alt="TrakCare" />
-    <img src="https://img.shields.io/badge/Active_Directory-IAM_&_Security-0078D4?style=flat-square&logo=windows&logoColor=white" alt="AD" />
-    <img src="https://img.shields.io/badge/Next.js-Internal_Web-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Python-Automation_Workers-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Network-VLAN_&_IP_Subnets-EA580C?style=flat-square&logo=cisco&logoColor=white" alt="VLAN" />
-    <img src="https://img.shields.io/badge/Hardware-Medical_Printers-4B5563?style=flat-square&logo=print&logoColor=white" alt="Printers" />
-  </p>
 
 ---
 
