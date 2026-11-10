@@ -21,14 +21,15 @@
 
 คัดสรรจากผลงานเด่นบน [zirconx.xyz](https://www.zirconx.xyz):
 
-| โปรเจกต์ | หมวดหมู่ | รายละเอียด | เทคโนโลยีหลัก | ลิงก์ |
-| :--- | :--- | :--- | :--- | :---: |
-| ⚡ **FlowX** | Android Automation | ระบบอัตโนมัติความแม่นยำสูงบน Android สำหรับกิจกรรมและมินิเกมบน MORGAN CITY พร้อม Computer Vision และ Anti-Ban Humanized Gesture |    | [Repository](https://github.com/ZXD44/FlowX) |
-| 🛡️ **UnfollowX PRO** | Desktop Automation | เครื่องมือ Desktop ตรวจสอบและคัดกรองผู้ไม่ติดตามกลับบน Instagram อัตโนมัติ ปลอดภัย 100% ผ่าน Real Browser สถาปัตยกรรม Zero-Deadlock |    | [Repository](https://github.com/ZXD44/UnfollowX) |
-| 🎮 **Zircord** | Developer Tool | Discord Rich Presence อัตโนมัติสำหรับนักพัฒนา ทำงานเงียบในพื้นหลัง รองรับ VS Code, Neovim, Terminal และ Roblox Studio พร้อม Git Live Tracking |    | [Repository](https://github.com/ZXD44/Zircord) |
-| 🎨 **XSKIN Studio** | Web Application | สตูดิโอปรับแต่งและแปลงสกิน Minecraft Bedrock ครบวงจรบนเว็บ รองรับแปลงเป็นชุดเกราะ  และส่งออก  ประมวลผลแบบ Client-side |    | [Repository](https://github.com/ZXD44/XSKIN) |
-| 🤖 **ZXScript** | AI Bridge / Plugin | Roblox Studio AI Agent Bridge เชื่อมต่อโมเดล AI (DeepSeek, ChatGPT, Claude) เข้ากับ Roblox Studio โดยตรงเพื่อสร้างและเขียนโค้ดเกมอัตโนมัติ |    | [Repository](https://github.com/ZXD44/ZXScript) |
-| 🎙️ **VoiceChat-ZXD44** | Gaming Infra | ระบบ Proximity Voice Chat (เสียงตามระยะทาง) สำหรับ Minecraft Bedrock เชื่อมต่อแบบเรียลไทม์ผ่าน Discord |    | [Repository](https://github.com/ZXD44/VoiceChat-ZXD44) |
+| โปรเจกต์ | หมวดหมู่ | รายละเอียด | เวอร์ชัน / ดาวน์โหลด | ลิงก์ซอร์สโค้ด |
+| :--- | :--- | :--- | :---: | :---: |
+| ⚡ **FlowX** | Android Automation | ระบบอัตโนมัติความแม่นยำสูงบน Android สำหรับกิจกรรมและมินิเกมบน MORGAN CITY พร้อม Computer Vision และ Anti-Ban Humanized Gesture | [![v1.2.8](https://img.shields.io/badge/Release-v1.2.8-blue?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ZXD44/FlowX/releases/tag/v1.2.8) | [📂 GitHub](https://github.com/ZXD44/FlowX) |
+| 🛡️ **UnfollowX PRO** | Desktop Automation | เครื่องมือ Desktop ตรวจสอบและคัดกรองผู้ไม่ติดตามกลับบน Instagram อัตโนมัติ ปลอดภัย 100% ผ่าน Real Browser สถาปัตยกรรม Zero-Deadlock | [![v0.0.1](https://img.shields.io/badge/Release-v0.0.1-green?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/ZXD44/UnfollowX/releases/tag/v0.0.1) | [📂 GitHub](https://github.com/ZXD44/UnfollowX) |
+| 🎮 **Zircord** | Developer Tool | Discord Rich Presence อัตโนมัติสำหรับนักพัฒนา ทำงานเงียบในพื้นหลัง รองรับ VS Code, Neovim, Terminal และ Roblox Studio พร้อม Git Live Tracking | [![Latest](https://img.shields.io/badge/Source-Latest-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/ZXD44/Zircord) | [📂 GitHub](https://github.com/ZXD44/Zircord) |
+| 🎨 **XSKIN Studio** | Web Application | สตูดิโอปรับแต่งและแปลงสกิน Minecraft Bedrock ครบวงจรบนเว็บ รองรับแปลงเป็นชุดเกราะ  และส่งออก  ประมวลผลแบบ Client-side | [![Web App](https://img.shields.io/badge/Open-App-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/ZXD44/XSKIN) | [📂 GitHub](https://github.com/ZXD44/XSKIN) |
+| 🤖 **ZXScript** | AI Bridge / Plugin | Roblox Studio AI Agent Bridge เชื่อมต่อโมเดล AI (DeepSeek, ChatGPT, Claude) เข้ากับ Roblox Studio โดยตรงเพื่อสร้างและเขียนโค้ดเกมอัตโนมัติ | [![Tool](https://img.shields.io/badge/Plugin-Active-red?style=for-the-badge&logo=roblox&logoColor=white)](https://github.com/ZXD44/ZXScript) | [📂 GitHub](https://github.com/ZXD44/ZXScript) |
+| 🎙️ **VoiceChat-ZXD44** | Gaming Infra | ระบบ Proximity Voice Chat (เสียงตามระยะทาง) สำหรับ Minecraft Bedrock เชื่อมต่อแบบเรียลไทม์ผ่าน Discord | [![Addon](https://img.shields.io/badge/Addon-Download-gray?style=for-the-badge&logo=minecraft&logoColor=white)](https://github.com/ZXD44/VoiceChat-ZXD44) | [📂 GitHub](https://github.com/ZXD44/VoiceChat-ZXD44) |
+
 
 ---
 
