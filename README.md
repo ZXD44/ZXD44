@@ -44,27 +44,52 @@
 
 ---
 
-### 💼 ประสบการณ์ทำงาน (Work Experience)
+### 💼 ประสบการณ์ทำงาน & ความเชี่ยวชาญเชิงลึก (Work Experience & Key Impact)
 
-🏢 **โรงพยาบาลสมิติเวช ศรีนครินทร์ (Samitivej Srinakarin Hospital)** | *IT Specialist & Developer* 
-- 💻 **Web & System Development:** พัฒนาและดูแลระบบเว็บ/เครื่องมืออัตโนมัติภายในองค์กร (Full-Stack & Internal Tools)
-- 🏥 **HIS Core Operations (TrakCare):** ดูแล มอนิเตอร์ และแก้ไขปัญหาการใช้งานระบบโรงพยาบาล SVH Trakcare LIVE
-- 👥 **User Support & Access Management:** บริหารจัดการสิทธิ์ผู้ใช้งานผ่าน Active Directory (AD) และดูแลผู้ใช้ทั่วทั้งองค์กร
-- 🌐 **Infra & End-User Computing:** ควบคุมดูแลระบบเครือข่าย (Network), ระบบเครื่องพิมพ์ (Printers) และอุปกรณ์ไอทีทุกจุดบริการ
+---
 
-🏢 **Lotus's (Nawamin Office)** | *IT Rollout Specialist & Helpdesk Support* 
-- 💻 **Technical & Remote Support:** ให้บริการสนับสนุนช่วยเหลือผู้ใช้งานผ่านระบบแชทและ Remote Desktop
-- 🏪 **Retail IT Infrastructure:** แก้ไขปัญหาอุปกรณ์ POS, เครื่องชั่งดิจิทัล และป้ายราคาสินค้าอิเล็กทรอนิกส์ (ESEL)
-- 🌐 **Network & Rollout:** จัดการเครือข่าย IP และประสานงานดำเนินการอัปเกรดระบบ (System Cutover)
+#### 🏥 **โรงพยาบาลสมิติเวช ศรีนครินทร์ (Samitivej Srinakarin Hospital)**
+ | **ส.ค. 2026 – ปัจจุบัน** &nbsp; 
+> **โฟกัสหลัก**: การผสมผสานระบบสารสนเทศทางการแพทย์ระดับ Enterprise (HIS) เข้ากับการพัฒนาระบบอัตโนมัติภายในองค์กร
 
-🏢 **AP Design Bangkok** | *IT Support & System Administration* 
-- 🔧 **IT Support & Network:** ดูแลระบบเครือข่าย ซ่อมบำรุงคอมพิวเตอร์ และจัดซื้ออุปกรณ์ไอที
-- 🤖 **System Development & Automation:** พัฒนา LINE OA Chatbot ตอบอัตโนมัติ และระบบลงเวลาเข้างานภายในองค์กร
-- 🎥 **CNC & Media Operations:** ควบคุมเครื่องตัดไม้ CNC 1325 และดูแลโปรดักชันสื่อมัลติมีเดีย
+- 💻 **Internal Web Application & Automation**: ออกแบบและพัฒนาเว็บแอปพลิเคชัน/เครื่องมืออัตโนมัติภายในโรงพยาบาล ช่วยลดขั้นตอนการทำงานแบบ Manual ของเจ้าหน้าที่แผนกต่างๆ
+- 🏥 **Mission-Critical Healthcare System (TrakCare HIS LIVE)**: มอนิเตอร์ ตรวจสอบ และแก้ไขปัญหาข้อขัดข้องในระบบ TrakCare LIVE (OPD, IPD, ระบบสั่งยา Doctor Order และการเชื่อมต่อผลแล็บ/เอกซเรย์) ตลอด 24/7 เพื่อให้การรักษาพยาบาลเป็นไปอย่างราบรื่น
+- 👥 **Identity & Access Management (AD Users)**: บริหารจัดการบัญชีผู้ใช้งาน สิทธิ์ความปลอดภัย และ Group Policy ของแพทย์ พยาบาล และบุคลากรกว่า 500+ คน ผ่าน Windows Server Active Directory
+- 🌐 **Hospital Infrastructure Resilience**: ควบคุมดูแลเสถียรภาพระบบเครือข่ายโรงพยาบาล (VLAN / Medical IP Network), เครื่องพิมพ์เฉพาะทาง (ฉลากยา/สติกเกอร์เวชระเบียน) และระบบคอมพิวเตอร์ประจำจุดบริการ
+- 🛠️ **Stack & Tools**:     
 
-🏢 **Motorsport Thailand** | *Live Broadcast Technician Intern* 
-- 📡 **Live Production:** ควบคุมโปรแกรม vMix สำหรับทำ Instant Replay ในการถ่ายทอดสด
-- 🔌 **OB System Setup:** วางระบบเดินสายสัญญาณ Outside Broadcasting (OB) สำหรับอีเวนต์มอเตอร์สปอร์ต
+---
+
+#### 🏪 **Lotus's Head Office Nawamin (โลตัส สำนักงานใหญ่ นวมินทร์)**
+ | **ม.ค. 2026 – มี.ค. 2026** &nbsp; 
+> **โฟกัสหลัก**: การบริหารจัดการระบบค้าปลีกความแม่นยำสูง และการ Rollout อัปเกรดระบบเครือข่าย/อุปกรณ์สาขา
+
+- 🚀 **Store Systems Cutover & Rollout**: ประสานงานและดำเนินการ System Cutover ในการอัปเกรดซอฟต์แวร์ระบบสาขาตามกำหนดเวลาโดยไม่ส่งผลกระทบต่อการขายหน้าร้าน
+- 🛒 **Retail Tech & Peripherals**: วิเคราะห์และแก้ไขปัญหาฮาร์ดแวร์หน้าร้านความเร็วสูง เช่น POS Checkout, เครื่องชั่งน้ำหนักดิจิทัล และระบบป้ายราคาสินค้าอิเล็กทรอนิกส์ (ESEL)
+- 💻 **Tier-1/2 Technical Support**: ซัพพอร์ตและแก้ไขปัญหาด้านไอทีให้แก่ผู้ใช้งานผ่าน Remote Desktop และระบบ Helpdesk ตามเกณฑ์ SLA อย่างเคร่งครัด
+- 🛠️ **Stack & Tools**:     
+
+---
+
+#### 🏢 **AP Design Bangkok**
+ | **มี.ค. 2025 – ส.ค. 2025** &nbsp; 
+> **โฟกัสหลัก**: การวางโครงสร้างพื้นฐานไอทีสำนักงาน และพัฒนาระบบอัตโนมัติสำหรับธุรกิจ
+
+- 🤖 **Business Process Automation**: ออกแบบและพัฒนา LINE Official Account Chatbot สำหรับตอบข้อสงสัยลูกค้าและแจ้งเตือนสถานะงานอัตโนมัติ 24 ชั่วโมง
+- 📱 **Employee Attendance System**: พัฒนาระบบบันทึกเวลาเข้า-ออกงาน (Employee Check-in System) สำหรับพนักงานภายในองค์กร
+- 🔧 **IT Purchasing & Network Administration**: วางผังระบบเครือข่าย Office LAN/Wi-Fi ซ่อมบำรุงเวิร์กสเตชัน และจัดซื้ออุปกรณ์ไอทีคุ้มค่าตามงบประมาณ
+- 🎥 **Digital Fabrication & Creative Media**: ควบคุมเครื่องตัดไม้ CNC 1325 และควบคุมการผลิตสื่อมัลติมีเดียประชาสัมพันธ์ลงช่องทาง YouTube / TikTok
+- 🛠️ **Stack & Tools**:     
+
+---
+
+#### 🏁 **Motorsport Thailand**
+ | **พ.ย. 2022 – ม.ค. 2023** &nbsp; 
+> **โฟกัสหลัก**: การควบคุมระบบภาพและโครงสร้างสัญญาณถ่ายทอดสดความเร็วสูงในการแข่งขันกีฬาระดับประเทศ
+
+- 📡 **High-Precision Real-Time Replay**: ควบคุมโปรแกรม vMix สำหรับทำ Instant Replay และภาพช้าแบบเรียลไทม์ในเสี้ยววินาที รองรับการถ่ายทอดสดมอเตอร์สปอร์ต
+- 🔌 **Outside Broadcasting (OB Van) Setup**: วางระบบเดินสายสัญญาณ SDI / Fiber Optic เชื่อมโยงสัญญาณภาพและเสียงจากสนามแข่งสู่ห้องควบคุมถ่ายทอดสด
+- 🛠️ **Stack & Tools**:    
 
 ---
 
