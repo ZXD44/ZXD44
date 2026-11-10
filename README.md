@@ -56,7 +56,35 @@
 - 🏥 **Mission-Critical Healthcare System (TrakCare HIS LIVE)**: มอนิเตอร์ ตรวจสอบ และแก้ไขปัญหาข้อขัดข้องในระบบ TrakCare LIVE (OPD, IPD, ระบบสั่งยา Doctor Order และการเชื่อมต่อผลแล็บ/เอกซเรย์) ตลอด 24/7 เพื่อให้การรักษาพยาบาลเป็นไปอย่างราบรื่น
 - 👥 **Identity & Access Management (AD Users)**: บริหารจัดการบัญชีผู้ใช้งาน สิทธิ์ความปลอดภัย และ Group Policy ของแพทย์ พยาบาล และบุคลากรกว่า 500+ คน ผ่าน Windows Server Active Directory
 - 🌐 **Hospital Infrastructure Resilience**: ควบคุมดูแลเสถียรภาพระบบเครือข่ายโรงพยาบาล (VLAN / Medical IP Network), เครื่องพิมพ์เฉพาะทาง (ฉลากยา/สติกเกอร์เวชระเบียน) และระบบคอมพิวเตอร์ประจำจุดบริการ
-- 🛠️ **Stack & Tools**:     
+- 🛠️ **Stack & Tools**:  
+  <p align="left">
+    <img src="https://img.shields.io/badge/vMix-Live_Production-7C3AED?style=flat-square&logo=obsstudio&logoColor=white" alt="vMix" />
+    <img src="https://img.shields.io/badge/Broadcast-Instant_Replay-EC4899?style=flat-square&logo=youtube-live&logoColor=white" alt="Instant Replay" />
+    <img src="https://img.shields.io/badge/OB_Van-Outside_Broadcasting-3B82F6?style=flat-square&logo=transmission&logoColor=white" alt="OB Van" />
+    <img src="https://img.shields.io/badge/Signal-SDI_&_Fiber_Optic-14B8A6?style=flat-square&logo=speedtest&logoColor=white" alt="SDI/Fiber" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/LINE_OA-Chatbot_Automation-06C755?style=flat-square&logo=line&logoColor=white" alt="LINE OA" />
+    <img src="https://img.shields.io/badge/Web_App-Employee_Check--in-000000?style=flat-square&logo=javascript&logoColor=white" alt="Check-in App" />
+    <img src="https://img.shields.io/badge/Network-Office_LAN_&_Wi--Fi-10B981?style=flat-square&logo=ubiquiti&logoColor=white" alt="Office LAN" />
+    <img src="https://img.shields.io/badge/CNC-1325_Wood_Router-D97706?style=flat-square&logo=autodesk&logoColor=white" alt="CNC 1325" />
+    <img src="https://img.shields.io/badge/Media-YouTube_&_TikTok-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Media" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/POS-Retail_Checkout-E11D48?style=flat-square&logo=salesforce&logoColor=white" alt="POS" />
+    <img src="https://img.shields.io/badge/ESEL-Digital_Price_Tags-2563EB?style=flat-square&logo=bluetooth&logoColor=white" alt="ESEL" />
+    <img src="https://img.shields.io/badge/Network-IP_Cutover-F59E0B?style=flat-square&logo=ethernet&logoColor=white" alt="IP Cutover" />
+    <img src="https://img.shields.io/badge/Support-Remote_Desktop-059669?style=flat-square&logo=anydesk&logoColor=white" alt="Remote Desktop" />
+    <img src="https://img.shields.io/badge/SLA-Helpdesk_Ticketing-6366F1?style=flat-square&logo=jira&logoColor=white" alt="Helpdesk" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/TrakCare-HIS_Healthcare-008080?style=flat-square&logo=interact&logoColor=white" alt="TrakCare" />
+    <img src="https://img.shields.io/badge/Active_Directory-IAM_&_Security-0078D4?style=flat-square&logo=windows&logoColor=white" alt="AD" />
+    <img src="https://img.shields.io/badge/Next.js-Internal_Web-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Python-Automation_Workers-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Network-VLAN_&_IP_Subnets-EA580C?style=flat-square&logo=cisco&logoColor=white" alt="VLAN" />
+    <img src="https://img.shields.io/badge/Hardware-Medical_Printers-4B5563?style=flat-square&logo=print&logoColor=white" alt="Printers" />
+  </p>
 
 ---
 
@@ -67,7 +95,35 @@
 - 🚀 **Store Systems Cutover & Rollout**: ประสานงานและดำเนินการ System Cutover ในการอัปเกรดซอฟต์แวร์ระบบสาขาตามกำหนดเวลาโดยไม่ส่งผลกระทบต่อการขายหน้าร้าน
 - 🛒 **Retail Tech & Peripherals**: วิเคราะห์และแก้ไขปัญหาฮาร์ดแวร์หน้าร้านความเร็วสูง เช่น POS Checkout, เครื่องชั่งน้ำหนักดิจิทัล และระบบป้ายราคาสินค้าอิเล็กทรอนิกส์ (ESEL)
 - 💻 **Tier-1/2 Technical Support**: ซัพพอร์ตและแก้ไขปัญหาด้านไอทีให้แก่ผู้ใช้งานผ่าน Remote Desktop และระบบ Helpdesk ตามเกณฑ์ SLA อย่างเคร่งครัด
-- 🛠️ **Stack & Tools**:     
+- 🛠️ **Stack & Tools**:  
+  <p align="left">
+    <img src="https://img.shields.io/badge/vMix-Live_Production-7C3AED?style=flat-square&logo=obsstudio&logoColor=white" alt="vMix" />
+    <img src="https://img.shields.io/badge/Broadcast-Instant_Replay-EC4899?style=flat-square&logo=youtube-live&logoColor=white" alt="Instant Replay" />
+    <img src="https://img.shields.io/badge/OB_Van-Outside_Broadcasting-3B82F6?style=flat-square&logo=transmission&logoColor=white" alt="OB Van" />
+    <img src="https://img.shields.io/badge/Signal-SDI_&_Fiber_Optic-14B8A6?style=flat-square&logo=speedtest&logoColor=white" alt="SDI/Fiber" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/LINE_OA-Chatbot_Automation-06C755?style=flat-square&logo=line&logoColor=white" alt="LINE OA" />
+    <img src="https://img.shields.io/badge/Web_App-Employee_Check--in-000000?style=flat-square&logo=javascript&logoColor=white" alt="Check-in App" />
+    <img src="https://img.shields.io/badge/Network-Office_LAN_&_Wi--Fi-10B981?style=flat-square&logo=ubiquiti&logoColor=white" alt="Office LAN" />
+    <img src="https://img.shields.io/badge/CNC-1325_Wood_Router-D97706?style=flat-square&logo=autodesk&logoColor=white" alt="CNC 1325" />
+    <img src="https://img.shields.io/badge/Media-YouTube_&_TikTok-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Media" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/POS-Retail_Checkout-E11D48?style=flat-square&logo=salesforce&logoColor=white" alt="POS" />
+    <img src="https://img.shields.io/badge/ESEL-Digital_Price_Tags-2563EB?style=flat-square&logo=bluetooth&logoColor=white" alt="ESEL" />
+    <img src="https://img.shields.io/badge/Network-IP_Cutover-F59E0B?style=flat-square&logo=ethernet&logoColor=white" alt="IP Cutover" />
+    <img src="https://img.shields.io/badge/Support-Remote_Desktop-059669?style=flat-square&logo=anydesk&logoColor=white" alt="Remote Desktop" />
+    <img src="https://img.shields.io/badge/SLA-Helpdesk_Ticketing-6366F1?style=flat-square&logo=jira&logoColor=white" alt="Helpdesk" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/TrakCare-HIS_Healthcare-008080?style=flat-square&logo=interact&logoColor=white" alt="TrakCare" />
+    <img src="https://img.shields.io/badge/Active_Directory-IAM_&_Security-0078D4?style=flat-square&logo=windows&logoColor=white" alt="AD" />
+    <img src="https://img.shields.io/badge/Next.js-Internal_Web-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Python-Automation_Workers-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Network-VLAN_&_IP_Subnets-EA580C?style=flat-square&logo=cisco&logoColor=white" alt="VLAN" />
+    <img src="https://img.shields.io/badge/Hardware-Medical_Printers-4B5563?style=flat-square&logo=print&logoColor=white" alt="Printers" />
+  </p>
 
 ---
 
@@ -79,7 +135,35 @@
 - 📱 **Employee Attendance System**: พัฒนาระบบบันทึกเวลาเข้า-ออกงาน (Employee Check-in System) สำหรับพนักงานภายในองค์กร
 - 🔧 **IT Purchasing & Network Administration**: วางผังระบบเครือข่าย Office LAN/Wi-Fi ซ่อมบำรุงเวิร์กสเตชัน และจัดซื้ออุปกรณ์ไอทีคุ้มค่าตามงบประมาณ
 - 🎥 **Digital Fabrication & Creative Media**: ควบคุมเครื่องตัดไม้ CNC 1325 และควบคุมการผลิตสื่อมัลติมีเดียประชาสัมพันธ์ลงช่องทาง YouTube / TikTok
-- 🛠️ **Stack & Tools**:     
+- 🛠️ **Stack & Tools**:  
+  <p align="left">
+    <img src="https://img.shields.io/badge/vMix-Live_Production-7C3AED?style=flat-square&logo=obsstudio&logoColor=white" alt="vMix" />
+    <img src="https://img.shields.io/badge/Broadcast-Instant_Replay-EC4899?style=flat-square&logo=youtube-live&logoColor=white" alt="Instant Replay" />
+    <img src="https://img.shields.io/badge/OB_Van-Outside_Broadcasting-3B82F6?style=flat-square&logo=transmission&logoColor=white" alt="OB Van" />
+    <img src="https://img.shields.io/badge/Signal-SDI_&_Fiber_Optic-14B8A6?style=flat-square&logo=speedtest&logoColor=white" alt="SDI/Fiber" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/LINE_OA-Chatbot_Automation-06C755?style=flat-square&logo=line&logoColor=white" alt="LINE OA" />
+    <img src="https://img.shields.io/badge/Web_App-Employee_Check--in-000000?style=flat-square&logo=javascript&logoColor=white" alt="Check-in App" />
+    <img src="https://img.shields.io/badge/Network-Office_LAN_&_Wi--Fi-10B981?style=flat-square&logo=ubiquiti&logoColor=white" alt="Office LAN" />
+    <img src="https://img.shields.io/badge/CNC-1325_Wood_Router-D97706?style=flat-square&logo=autodesk&logoColor=white" alt="CNC 1325" />
+    <img src="https://img.shields.io/badge/Media-YouTube_&_TikTok-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Media" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/POS-Retail_Checkout-E11D48?style=flat-square&logo=salesforce&logoColor=white" alt="POS" />
+    <img src="https://img.shields.io/badge/ESEL-Digital_Price_Tags-2563EB?style=flat-square&logo=bluetooth&logoColor=white" alt="ESEL" />
+    <img src="https://img.shields.io/badge/Network-IP_Cutover-F59E0B?style=flat-square&logo=ethernet&logoColor=white" alt="IP Cutover" />
+    <img src="https://img.shields.io/badge/Support-Remote_Desktop-059669?style=flat-square&logo=anydesk&logoColor=white" alt="Remote Desktop" />
+    <img src="https://img.shields.io/badge/SLA-Helpdesk_Ticketing-6366F1?style=flat-square&logo=jira&logoColor=white" alt="Helpdesk" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/TrakCare-HIS_Healthcare-008080?style=flat-square&logo=interact&logoColor=white" alt="TrakCare" />
+    <img src="https://img.shields.io/badge/Active_Directory-IAM_&_Security-0078D4?style=flat-square&logo=windows&logoColor=white" alt="AD" />
+    <img src="https://img.shields.io/badge/Next.js-Internal_Web-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Python-Automation_Workers-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Network-VLAN_&_IP_Subnets-EA580C?style=flat-square&logo=cisco&logoColor=white" alt="VLAN" />
+    <img src="https://img.shields.io/badge/Hardware-Medical_Printers-4B5563?style=flat-square&logo=print&logoColor=white" alt="Printers" />
+  </p>
 
 ---
 
@@ -89,7 +173,35 @@
 
 - 📡 **High-Precision Real-Time Replay**: ควบคุมโปรแกรม vMix สำหรับทำ Instant Replay และภาพช้าแบบเรียลไทม์ในเสี้ยววินาที รองรับการถ่ายทอดสดมอเตอร์สปอร์ต
 - 🔌 **Outside Broadcasting (OB Van) Setup**: วางระบบเดินสายสัญญาณ SDI / Fiber Optic เชื่อมโยงสัญญาณภาพและเสียงจากสนามแข่งสู่ห้องควบคุมถ่ายทอดสด
-- 🛠️ **Stack & Tools**:    
+- 🛠️ **Stack & Tools**:  
+  <p align="left">
+    <img src="https://img.shields.io/badge/vMix-Live_Production-7C3AED?style=flat-square&logo=obsstudio&logoColor=white" alt="vMix" />
+    <img src="https://img.shields.io/badge/Broadcast-Instant_Replay-EC4899?style=flat-square&logo=youtube-live&logoColor=white" alt="Instant Replay" />
+    <img src="https://img.shields.io/badge/OB_Van-Outside_Broadcasting-3B82F6?style=flat-square&logo=transmission&logoColor=white" alt="OB Van" />
+    <img src="https://img.shields.io/badge/Signal-SDI_&_Fiber_Optic-14B8A6?style=flat-square&logo=speedtest&logoColor=white" alt="SDI/Fiber" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/LINE_OA-Chatbot_Automation-06C755?style=flat-square&logo=line&logoColor=white" alt="LINE OA" />
+    <img src="https://img.shields.io/badge/Web_App-Employee_Check--in-000000?style=flat-square&logo=javascript&logoColor=white" alt="Check-in App" />
+    <img src="https://img.shields.io/badge/Network-Office_LAN_&_Wi--Fi-10B981?style=flat-square&logo=ubiquiti&logoColor=white" alt="Office LAN" />
+    <img src="https://img.shields.io/badge/CNC-1325_Wood_Router-D97706?style=flat-square&logo=autodesk&logoColor=white" alt="CNC 1325" />
+    <img src="https://img.shields.io/badge/Media-YouTube_&_TikTok-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Media" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/POS-Retail_Checkout-E11D48?style=flat-square&logo=salesforce&logoColor=white" alt="POS" />
+    <img src="https://img.shields.io/badge/ESEL-Digital_Price_Tags-2563EB?style=flat-square&logo=bluetooth&logoColor=white" alt="ESEL" />
+    <img src="https://img.shields.io/badge/Network-IP_Cutover-F59E0B?style=flat-square&logo=ethernet&logoColor=white" alt="IP Cutover" />
+    <img src="https://img.shields.io/badge/Support-Remote_Desktop-059669?style=flat-square&logo=anydesk&logoColor=white" alt="Remote Desktop" />
+    <img src="https://img.shields.io/badge/SLA-Helpdesk_Ticketing-6366F1?style=flat-square&logo=jira&logoColor=white" alt="Helpdesk" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/TrakCare-HIS_Healthcare-008080?style=flat-square&logo=interact&logoColor=white" alt="TrakCare" />
+    <img src="https://img.shields.io/badge/Active_Directory-IAM_&_Security-0078D4?style=flat-square&logo=windows&logoColor=white" alt="AD" />
+    <img src="https://img.shields.io/badge/Next.js-Internal_Web-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Python-Automation_Workers-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Network-VLAN_&_IP_Subnets-EA580C?style=flat-square&logo=cisco&logoColor=white" alt="VLAN" />
+    <img src="https://img.shields.io/badge/Hardware-Medical_Printers-4B5563?style=flat-square&logo=print&logoColor=white" alt="Printers" />
+  </p>
 
 ---
 
